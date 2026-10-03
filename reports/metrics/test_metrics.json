@@ -1,0 +1,97 @@
+{
+  "sentiment": {
+    "task": "sentiment",
+    "selected_model": "Logistic Regression",
+    "empty_test_inputs_excluded": 0,
+    "test_rows_with_training_text_match": 0,
+    "test_rows_with_repeated_test_text": 7,
+    "class_support": {
+      "negative": 241,
+      "neutral": 125,
+      "positive": 670
+    },
+    "all_eligible_test": {
+      "reviews": 1036,
+      "accuracy": 0.7480694980694981,
+      "macro_f1": 0.5654774098335291,
+      "weighted_f1": 0.7249859096792223
+    },
+    "unseen_training_text_subset": {
+      "reviews": 1036,
+      "accuracy": 0.7480694980694981,
+      "macro_f1": 0.5654774098335291,
+      "weighted_f1": 0.7249859096792223,
+      "class_support": {
+        "negative": 241,
+        "neutral": 125,
+        "positive": 670
+      }
+    }
+  },
+  "effectiveness": {
+    "task": "effectiveness",
+    "selected_model": "Logistic Regression",
+    "empty_test_inputs_excluded": 0,
+    "test_rows_with_training_text_match": 0,
+    "test_rows_with_repeated_test_text": 7,
+    "class_support": {
+      "Ineffective": 82,
+      "Marginally Effective": 76,
+      "Moderately Effective": 157,
+      "Considerably Effective": 310,
+      "Highly Effective": 411
+    },
+    "all_eligible_test": {
+      "reviews": 1036,
+      "accuracy": 0.4691119691119691,
+      "macro_f1": 0.40927401126125396,
+      "weighted_f1": 0.4602520434331817
+    },
+    "unseen_training_text_subset": {
+      "reviews": 1036,
+      "accuracy": 0.4691119691119691,
+      "macro_f1": 0.40927401126125396,
+      "weighted_f1": 0.4602520434331817,
+      "class_support": {
+        "Ineffective": 82,
+        "Marginally Effective": 76,
+        "Moderately Effective": 157,
+        "Considerably Effective": 310,
+        "Highly Effective": 411
+      }
+    }
+  },
+  "severity": {
+    "task": "severity",
+    "selected_model": "Logistic Regression",
+    "empty_test_inputs_excluded": 0,
+    "test_rows_with_training_text_match": 1,
+    "test_rows_with_repeated_test_text": 7,
+    "class_support": {
+      "No Side Effects": 268,
+      "Mild Side Effects": 330,
+      "Moderate Side Effects": 236,
+      "Severe Side Effects": 122,
+      "Extremely Severe Side Effects": 80
+    },
+    "all_eligible_test": {
+      "reviews": 1036,
+      "accuracy": 0.5231660231660231,
+      "macro_f1": 0.4779190280157276,
+      "weighted_f1": 0.5236658136602175
+    },
+    "unseen_training_text_subset": {
+      "reviews": 1035,
+      "accuracy": 0.523671497584541,
+      "macro_f1": 0.4783353979332813,
+      "weighted_f1": 0.5241545633856656,
+      "class_support": {
+        "No Side Effects": 268,
+        "Mild Side Effects": 330,
+        "Moderate Side Effects": 235,
+        "Severe Side Effects": 122,
+        "Extremely Severe Side Effects": 80
+      }
+    }
+  }
+}

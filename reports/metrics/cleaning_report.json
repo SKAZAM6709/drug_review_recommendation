@@ -1,0 +1,27 @@
+{
+  "original_train_rows": 3107,
+  "original_test_rows": 1036,
+  "training_rows_removed_for_test_overlap": 16,
+  "training_duplicates_removed": 30,
+  "empty_training_reviews_removed": 1,
+  "final_train_rows": 3060,
+  "final_test_rows": 1036,
+  "remaining_cross_split_review_matches": 0,
+  "duplicate_test_review_keys": 4,
+  "empty_test_reviews": 0,
+  "missing_train_conditions": 1,
+  "missing_test_conditions": 0,
+  "train_sentiment_distribution": {
+    "positive": 2102,
+    "negative": 656,
+    "neutral": 302
+  },
+  "notes": [
+    "Test records were retained.",
+    "Name normalization does not merge condition synonyms.",
+    "Missing conditions are retained for text classification.",
+    "Missing conditions must be excluded from condition rankings.",
+    "Overlap checks detect normalized exact matches, not near-duplicate reviews.",
+    "Sentiment labels are rating-derived proxies."
+  ]
+}

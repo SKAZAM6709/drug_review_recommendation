@@ -1,0 +1,134 @@
+For 'acne', 'sotret' has 6 training reviews. The average patient rating is 8.83/10, and its adjusted rating is 8.08/10. It ranks 1 among 16 eligible drugs. 100.0% of reviews have positive rating-derived labels.
+
+REPORTED EFFECTIVENESS
+The most frequent category is 'Highly Effective' (6/6 reviews, 100.0%).
+
+REPORTED SIDE-EFFECT SEVERITY
+The most frequent category is 'Moderate Side Effects' (5/6 reviews, 83.3%).
+
+WHY THIS RANK?
+The score combines this drug's average rating with the condition's average rating. Smaller review groups are adjusted more strongly toward the condition average. Rank is determined by adjusted score, then review count, then drug name.
+
+BENEFITS REVIEW EXCERPTS
+- Review 1239 (rating 8/10): acne cleared totally,skin became even.
+- Review 1241 (rating 8/10): It reduced my acne considerably and, after ceasing the treatment, I have never had acne as severe as before.
+- Review 1245 (rating 8/10): Cleared up my acne - worked very well. Skin was softer.
+
+SIDE-EFFECT REVIEW EXCERPTS
+- Review 1239 (rating 8/10): keloid scars on the back which appeared about 5 months after the end of treatment,without any preceeding trauma to the region. Dryness of skin and mucous membranes that was not very severe.Dizziness and tiredness sometimes.
+- Review 1241 (rating 8/10): Red, extremely dry and flaky skin Depression
+- Review 1245 (rating 8/10): blood noses, depression, cracked lips - these things where difficult to put up with but it was only for 4 months and the results have lasted for over 10 years
+
+NOTES
+- Excerpts are selected around the group's median rating.
+- Excerpts do not establish how common a benefit or side effect is.
+- Ratings and categories are patient-reported.
+- Positive labels are derived from ratings.
+
+For 'acne', 'accutane' has 22 training reviews. The average patient rating is 8.23/10, and its adjusted rating is 8.03/10. It ranks 2 among 16 eligible drugs. 86.4% of reviews have positive rating-derived labels.
+
+REPORTED EFFECTIVENESS
+The most frequent category is 'Highly Effective' (17/22 reviews, 77.3%).
+
+REPORTED SIDE-EFFECT SEVERITY
+The most frequent category is 'Moderate Side Effects' (11/22 reviews, 50.0%).
+
+WHY THIS RANK?
+The score combines this drug's average rating with the condition's average rating. Smaller review groups are adjusted more strongly toward the condition average. Rank is determined by adjusted score, then review count, then drug name.
+
+BENEFITS REVIEW EXCERPTS
+- Review 698 (rating 9/10): Completely cleared up my acne b/4 my wedding.
+- Review 703 (rating 9/10): I have suffered from acne for 10+ years, and let me tell you, Accutane is the only thing that's worked for me. Improvement in skin in days... clear skin in a couple weeks. I have tried almost every treatment out there, and no results have compared to those I got from using Accutane. Take it from someone who's suffered a long time: try it and you won't be sorry. Be wary of some of the possible side…
+- Review 707 (rating 9/10): I had cystic acne, however within the first month i the acne reduced significantly! By the time i was at the 6 month point i had no acne at all. The only down side were the side effects... i felt joint pain, extreme dryness- esp my lips, very dry eyes. I was uncomfortable, however i have been 1 1/2 year without it and i barely get a little zit anymore.
+
+SIDE-EFFECT REVIEW EXCERPTS
+- Review 698 (rating 9/10): Very dry mouth, nose and skin. It essentially dried up the acne. It worked amazingly well and the effects lasted for probably a couple of years after a one time 6 month treatment. I wouldn't take it again however, b/c I wanted I to have babies and did have trouble conceiving years later but, it is unknown to me if this was a result of the acutane. I do have one biological son and one adopted son.
+- Review 703 (rating 9/10): Dry skin and lips. Just keep lotion and chapstick handy, and you'll be fine.
+- Review 707 (rating 9/10): pain, extreme dryness- esp my lips, very dry eyes. There is a great deal of monitoring with this drug... so you really have to be committed to using it (i.e., blood work, frequent dermatology visits, one month waiting period for women to be sure you get on oral birth control, monthly phone questionnaire with the company).
+
+NOTES
+- Excerpts are selected around the group's median rating.
+- Excerpts do not establish how common a benefit or side effect is.
+- Ratings and categories are patient-reported.
+- Positive labels are derived from ratings.
+
+For 'acne', 'spironolactone' has 9 training reviews. The average patient rating is 8.33/10, and its adjusted rating is 7.92/10. It ranks 3 among 16 eligible drugs. 77.8% of reviews have positive rating-derived labels.
+
+REPORTED EFFECTIVENESS
+The most frequent category is 'Highly Effective' (5/9 reviews, 55.6%).
+
+REPORTED SIDE-EFFECT SEVERITY
+The most frequent categories are tied: 'Moderate Side Effects', 'Mild Side Effects', each appearing in 3/9 reviews (33.3%).
+
+WHY THIS RANK?
+The score combines this drug's average rating with the condition's average rating. Smaller review groups are adjusted more strongly toward the condition average. Rank is determined by adjusted score, then review count, then drug name.
+
+BENEFITS REVIEW EXCERPTS
+- Review 3753 (rating 9/10): The once daily treatment was effective in keeping me from having moderate acne breakouts while I was taking hormone replacement therapy. I also used testosterone cream (compounded) and my doctor felt that this was the source of the acne and also some water retention.
+- Review 3766 (rating 9/10): I am 28 and had acne like a 16 year old the day before the prom. It was horrible and embarrassing. This was an experiment. We had no idea if it would even work. We started at 50mg twice daily and then went to the 100mg when there were no results. My face is flawless now. I am also sleeping better which I don't think is a coincidence.
+- Review 3757 (rating 10/10): The benefits are helping to control my cystic acne. I used to have very painful acne cysts that caused major scarring on my cheeks and chin. I did use accutane for about 4 months to clear it up. However, I still breakout. Not with cysts but smaller pimples. They seem to form in a cluster in certain areas. I have tried all kinds of topical as well as oral medication to keep these breakouts at bay.…
+
+SIDE-EFFECT REVIEW EXCERPTS
+- Review 3753 (rating 9/10): I don't believe I experienced any side effects at all and have always been very satisfied with the the medication. I have only recently begun to look at other kinds of hormone replacement therapy that is all compounded and natural based.
+- Review 3766 (rating 9/10): Dry skin, intolerance to alcohol, frequent urination.
+- Review 3757 (rating 10/10): The only side effects were temporary breast discomfort. I swear they got bigger. That however did subside and I no longer have that discomfort. The other side effect is frequent urination. If I drink a lot of water during the day I have to go all the time but even if I don't I still have to when I drink water or whatever. It's a little annoying but the pros far out weigh the cons.
+
+NOTES
+- Excerpts are selected around the group's median rating.
+- Excerpts do not establish how common a benefit or side effect is.
+- Ratings and categories are patient-reported.
+- Positive labels are derived from ratings.
+
+For 'acne', 'renova' has 6 training reviews. The average patient rating is 8.00/10, and its adjusted rating is 7.63/10. It ranks 4 among 16 eligible drugs. 100.0% of reviews have positive rating-derived labels.
+
+REPORTED EFFECTIVENESS
+The most frequent category is 'Moderately Effective' (3/6 reviews, 50.0%).
+
+REPORTED SIDE-EFFECT SEVERITY
+The most frequent categories are tied: 'Moderate Side Effects', 'Mild Side Effects', each appearing in 2/6 reviews (33.3%).
+
+WHY THIS RANK?
+The score combines this drug's average rating with the condition's average rating. Smaller review groups are adjusted more strongly toward the condition average. Rank is determined by adjusted score, then review count, then drug name.
+
+BENEFITS REVIEW EXCERPTS
+- Review 2097 (rating 7/10): Wrinles seemed less defined
+- Review 2102 (rating 7/10): Reduced acne
+- Review 2103 (rating 8/10): Once the side effects wore off, I was left with much smoother skin, and less acne. I noticed a reduction in fine lines and wrinkles, and an overall better texture to my skin.
+
+SIDE-EFFECT REVIEW EXCERPTS
+- Review 2097 (rating 7/10): Rash, red eyes
+- Review 2102 (rating 7/10): dry, peeling skin redness sometimes stings
+- Review 2103 (rating 8/10): Initially, I had irritated, red, flaking, peeling skin in the areas I applied the lotion.
+
+NOTES
+- Excerpts are selected around the group's median rating.
+- Excerpts do not establish how common a benefit or side effect is.
+- Ratings and categories are patient-reported.
+- Positive labels are derived from ratings.
+
+For 'acne', 'avita' has 6 training reviews. The average patient rating is 7.67/10, and its adjusted rating is 7.45/10. It ranks 5 among 16 eligible drugs. 100.0% of reviews have positive rating-derived labels.
+
+REPORTED EFFECTIVENESS
+The most frequent category is 'Considerably Effective' (4/6 reviews, 66.7%).
+
+REPORTED SIDE-EFFECT SEVERITY
+The most frequent category is 'Mild Side Effects' (5/6 reviews, 83.3%).
+
+WHY THIS RANK?
+The score combines this drug's average rating with the condition's average rating. Smaller review groups are adjusted more strongly toward the condition average. Rank is determined by adjusted score, then review count, then drug name.
+
+BENEFITS REVIEW EXCERPTS
+- Review 2873 (rating 7/10): There was decrease in my acne and my skin became considerably smoother.
+- Review 2874 (rating 8/10): It reduced my acne considerably. It provided a very smooth feeling to my skin that I did not experience with anything prior to using this medicine. It also gave me a rosier complexion with a glow.
+- Review 2875 (rating 7/10): My skin felt much softer and my breakouts were far less frequent. My pores also looked smaller. The routine was also easy to maintain, as it only required nightly application.
+
+SIDE-EFFECT REVIEW EXCERPTS
+- Review 2873 (rating 7/10): Luckily I did not notice many side effects. I only experienced occasional flaky skin and a very slight stinging sensation.
+- Review 2874 (rating 8/10): The only side effects i experienced were a slight stinging feeling. this subsided after the first two weeks. If the stinging sensation does not subside it is preferable to use it every other night instead of every night.
+- Review 2875 (rating 7/10): My breakout were more frequent and severe when I first began this treatment. Also the cream itself was a little to heavy, it may work better for those with dry skin. I did not notice increased sun sensitivity or significant dryness. I would have preferred this treatment if it was a gel or a light lotion, and not a heavy cream.
+
+NOTES
+- Excerpts are selected around the group's median rating.
+- Excerpts do not establish how common a benefit or side effect is.
+- Ratings and categories are patient-reported.
+- Positive labels are derived from ratings.

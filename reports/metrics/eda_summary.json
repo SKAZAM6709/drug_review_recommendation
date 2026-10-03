@@ -1,0 +1,21 @@
+{
+  "training_reviews": 3060,
+  "unique_nonblank_drugs": 500,
+  "unique_nonblank_condition_strings": 1423,
+  "average_rating": 7.000326797385621,
+  "median_rating": 8.0,
+  "positive_proxy_label_percent": 68.69281045751634,
+  "median_review_words": 97.0,
+  "missing_review_text": {
+    "benefits_review": 17,
+    "side_effects_review": 73,
+    "comments_review": 11
+  },
+  "drug_condition_pairs": 2073,
+  "pairs_meeting_minimum_review_count": {
+    "1": 2073,
+    "3": 161,
+    "5": 80,
+    "10": 23
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "training": {
+    "dataset": "Training",
+    "rows": 3107,
+    "columns": [
+      "Unnamed: 0",
+      "urlDrugName",
+      "rating",
+      "effectiveness",
+      "sideEffects",
+      "condition",
+      "benefitsReview",
+      "sideEffectsReview",
+      "commentsReview"
+    ],
+    "unique_drugs": 502,
+    "unique_raw_conditions": 1426,
+    "missing_values": {
+      "Unnamed: 0": 0,
+      "urlDrugName": 0,
+      "rating": 0,
+      "effectiveness": 0,
+      "sideEffects": 0,
+      "condition": 1,
+      "benefitsReview": 18,
+      "sideEffectsReview": 75,
+      "commentsReview": 12
+    },
+    "missing_or_blank_text": {
+      "benefitsReview": 18,
+      "sideEffectsReview": 75,
+      "commentsReview": 12
+    },
+    "duplicate_ids": 0,
+    "duplicate_content_rows": 31,
+    "invalid_rating_rows": 0,
+    "rating_distribution": {
+      "1": 305,
+      "2": 103,
+      "3": 146,
+      "4": 107,
+      "5": 159,
+      "6": 157,
+      "7": 350,
+      "8": 558,
+      "9": 480,
+      "10": 742
+    },
+    "effectiveness_distribution": {
+      "Highly Effective": 1330,
+      "Considerably Effective": 928,
+      "Moderately Effective": 415,
+      "Ineffective": 247,
+      "Marginally Effective": 187
+    },
+    "side_effect_distribution": {
+      "Mild Side Effects": 1019,
+      "No Side Effects": 930,
+      "Moderate Side Effects": 614,
+      "Severe Side Effects": 369,
+      "Extremely Severe Side Effects": 175
+    }
+  },
+  "test": {
+    "dataset": "Test",
+    "rows": 1036,
+    "columns": [
+      "Unnamed: 0",
+      "urlDrugName",
+      "rating",
+      "effectiveness",
+      "sideEffects",
+      "condition",
+      "benefitsReview",
+      "sideEffectsReview",
+      "commentsReview"
+    ],
+    "unique_drugs": 314,
+    "unique_raw_conditions": 566,
+    "missing_values": {
+      "Unnamed: 0": 0,
+      "urlDrugName": 0,
+      "rating": 0,
+      "effectiveness": 0,
+      "sideEffects": 0,
+      "condition": 0,
+      "benefitsReview": 5,
+      "sideEffectsReview": 23,
+      "commentsReview": 1
+    },
+    "missing_or_blank_text": {
+      "benefitsReview": 5,
+      "sideEffectsReview": 23,
+      "commentsReview": 1
+    },
+    "duplicate_ids": 0,
+    "duplicate_content_rows": 4,
+    "invalid_rating_rows": 0,
+    "rating_distribution": {
+      "1": 115,
+      "2": 33,
+      "3": 49,
+      "4": 44,
+      "5": 67,
+      "6": 58,
+      "7": 121,
+      "8": 190,
+      "9": 133,
+      "10": 226
+    },
+    "effectiveness_distribution": {
+      "Highly Effective": 411,
+      "Considerably Effective": 310,
+      "Moderately Effective": 157,
+      "Ineffective": 82,
+      "Marginally Effective": 76
+    },
+    "side_effect_distribution": {
+      "Mild Side Effects": 330,
+      "No Side Effects": 268,
+      "Moderate Side Effects": 236,
+      "Severe Side Effects": 122,
+      "Extremely Severe Side Effects": 80
+    }
+  },
+  "split_overlap": {
+    "shared_record_ids": 0,
+    "training_rows_matching_test_content": 16
+  }
+}

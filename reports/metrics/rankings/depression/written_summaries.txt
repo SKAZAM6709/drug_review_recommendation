@@ -1,0 +1,134 @@
+For 'depression', 'wellbutrin-xl' has 15 training reviews. The average patient rating is 8.40/10, and its adjusted rating is 8.01/10. It ranks 1 among 13 eligible drugs. 93.3% of reviews have positive rating-derived labels.
+
+REPORTED EFFECTIVENESS
+The most frequent category is 'Considerably Effective' (6/15 reviews, 40.0%).
+
+REPORTED SIDE-EFFECT SEVERITY
+The most frequent category is 'Mild Side Effects' (11/15 reviews, 73.3%).
+
+WHY THIS RANK?
+The score combines this drug's average rating with the condition's average rating. Smaller review groups are adjusted more strongly toward the condition average. Rank is determined by adjusted score, then review count, then drug name.
+
+BENEFITS REVIEW EXCERPTS
+- Review 225 (rating 8/10): This drug definately does have an effect on depression. I went on a trip and while I had enough for the duration of the trip, I ran out the day I returned and was unable to get the refill for several days. I noticed a significant change in my mood and affect and began experiencing symptoms of depression again. Although I tried to keep a "stiff upper lip" my husband noticed the change.
+- Review 232 (rating 8/10): Aided in decreasing symptoms of depression, and also reduced craving for cigarettes as a bonus. Noticeably less lethargy.
+- Review 240 (rating 8/10): The Wellbutrin with 20 mg of Prozac daily as an adjunct alleviated most symptoms of depression. Better sleep as a result, and more energy throughout the day.
+
+SIDE-EFFECT REVIEW EXCERPTS
+- Review 225 (rating 8/10): At the beginning of treatment I noticed a slightly elevated heart rate and I felt a bit jittery. However, I do consume a fairly high amount of caffeine during the day and I was told to expect this by my doctor. Another effect that I didn't really connect to the medication was a lack of motivation. I did not attribute this specifically to the medication until I had a conversation with my best frien…
+- Review 232 (rating 8/10): Side effects were generally positive, including help with smoking cessation as well as increased libido, which had decreased on Lexapro.
+- Review 240 (rating 8/10): Jitters, trembling hands.
+
+NOTES
+- Excerpts are selected around the group's median rating.
+- Excerpts do not establish how common a benefit or side effect is.
+- Ratings and categories are patient-reported.
+- Positive labels are derived from ratings.
+
+For 'depression', 'wellbutrin-sr' has 8 training reviews. The average patient rating is 7.88/10, and its adjusted rating is 7.47/10. It ranks 2 among 13 eligible drugs. 75.0% of reviews have positive rating-derived labels.
+
+REPORTED EFFECTIVENESS
+The most frequent category is 'Highly Effective' (5/8 reviews, 62.5%).
+
+REPORTED SIDE-EFFECT SEVERITY
+The most frequent category is 'Mild Side Effects' (4/8 reviews, 50.0%).
+
+WHY THIS RANK?
+The score combines this drug's average rating with the condition's average rating. Smaller review groups are adjusted more strongly toward the condition average. Rank is determined by adjusted score, then review count, then drug name.
+
+BENEFITS REVIEW EXCERPTS
+- Review 2443 (rating 9/10): After battling w/moderate depression for many years, this drug is a miracle for me! It stopped the "hampster wheel in my head" anxiety I had, I feel mush calmer, I can focus on what is important, and I no longer have such emotional hypersensitivity that I used to. It helps me feel like the "me" that I had lost for a long time, but i have never had a "medicated" feeling from it,as i did with other…
+- Review 2444 (rating 9/10): It helped with depression and suicidal thoughts. I was able to sleep better and deal with anxiety and stress better.
+- Review 2446 (rating 9/10): When I started taking this medication I was first put on 150mgs twice a day. After about 6 months felt that it was not really working. After Dr upped dosage to 450 mgs per day i have never felt better. Use to be extremely emotional, weepy, and just did not want to get out of bed. It has helped with my symptoms from the fibromyalgia, and my anxiety. It has also helped me drop weight which is a bonu…
+
+SIDE-EFFECT REVIEW EXCERPTS
+- Review 2443 (rating 9/10): Dry mouth, thirsty a lot.Sometimes costipation,faint ringing in ears sometimes, comes and goes.
+- Review 2444 (rating 9/10): dry mouth was the worst side effect but since I should drink more water anyway it was a mixed blessing.
+- Review 2446 (rating 9/10): I am normally the queen of side effects and the only one that I ended up with was not being able to taste what I eat. It effected me within 2 months of taking it, and its gotten better but there are still some foods that i just cant enjoy because i cant taste it.
+
+NOTES
+- Excerpts are selected around the group's median rating.
+- Excerpts do not establish how common a benefit or side effect is.
+- Ratings and categories are patient-reported.
+- Positive labels are derived from ratings.
+
+For 'depression', 'prozac' has 31 training reviews. The average patient rating is 7.45/10, and its adjusted rating is 7.37/10. It ranks 3 among 13 eligible drugs. 80.6% of reviews have positive rating-derived labels.
+
+REPORTED EFFECTIVENESS
+The most frequent category is 'Considerably Effective' (16/31 reviews, 51.6%).
+
+REPORTED SIDE-EFFECT SEVERITY
+The most frequent category is 'Mild Side Effects' (15/31 reviews, 48.4%).
+
+WHY THIS RANK?
+The score combines this drug's average rating with the condition's average rating. Smaller review groups are adjusted more strongly toward the condition average. Rank is determined by adjusted score, then review count, then drug name.
+
+BENEFITS REVIEW EXCERPTS
+- Review 1174 (rating 8/10): Manageability of depression.
+- Review 1178 (rating 8/10): Lessening of suicidal ideation and an increased ability to complete daily life tasks.
+- Review 1184 (rating 8/10): Definite improvement in mood, particularly at the beginning of treatment. Much better stability with moods and PMS symptoms in particular. I do think that I don't feel it is as effective now as when I started but still feel better than without it and would not stop treatment.
+
+SIDE-EFFECT REVIEW EXCERPTS
+- Review 1174 (rating 8/10): Slight weight gain.
+- Review 1178 (rating 8/10): There was a decreased ability to have orgasms and a general numbing not quite stupor in which I existed. There was also a major decrese in appetite.
+- Review 1184 (rating 8/10): At the beginning of treatment, I had a tremendous difficulty sleeping and felt jittery. Passed after a fews weeks. Definite drop in libido since treatment started, rated the side effects as "moderate" above for this reason alone.
+
+NOTES
+- Excerpts are selected around the group's median rating.
+- Excerpts do not establish how common a benefit or side effect is.
+- Ratings and categories are patient-reported.
+- Positive labels are derived from ratings.
+
+For 'depression', 'sarafem' has 6 training reviews. The average patient rating is 7.67/10, and its adjusted rating is 7.29/10. It ranks 4 among 13 eligible drugs. 66.7% of reviews have positive rating-derived labels.
+
+REPORTED EFFECTIVENESS
+The most frequent category is 'Highly Effective' (3/6 reviews, 50.0%).
+
+REPORTED SIDE-EFFECT SEVERITY
+The most frequent category is 'Mild Side Effects' (3/6 reviews, 50.0%).
+
+WHY THIS RANK?
+The score combines this drug's average rating with the condition's average rating. Smaller review groups are adjusted more strongly toward the condition average. Rank is determined by adjusted score, then review count, then drug name.
+
+BENEFITS REVIEW EXCERPTS
+- Review 959 (rating 8/10): I found that this drug helps significantly with my level of depression and monthly irritability that occurs around my menstrual cycles.
+- Review 967 (rating 8/10): This drug improved my mood greatly. I can take more stress at work, in my romantic life, and family situations where as before, I would crawl under a rock and cry. A lot of people say that they don't feel much on this drug, but I think it was low enough to where I could have moderate lows and elevated highs. It helped me control my impulsive behavior with eating.
+- Review 958 (rating 6/10): Releived moderate depression initially, and helped with anger and irritability control.
+
+SIDE-EFFECT REVIEW EXCERPTS
+- Review 959 (rating 8/10): My sides effects were not noticeable and very mild. I have noticed some lower libido while on Fluoxetine, but no other noticeable side effects.
+- Review 967 (rating 8/10): I had headaches if I didn't take it with enough food in my stomach. I also have insomnia, however, if you cut your intake of caffeine, it shouldn't be too severe.
+- Review 958 (rating 6/10): Sleeping too much, night sweats, vivid dreams, felt emotionally numb, cravings for carbohydrates and overeating, and had decreased libido.
+
+NOTES
+- Excerpts are selected around the group's median rating.
+- Excerpts do not establish how common a benefit or side effect is.
+- Ratings and categories are patient-reported.
+- Positive labels are derived from ratings.
+
+For 'depression', 'wellbutrin' has 21 training reviews. The average patient rating is 7.33/10, and its adjusted rating is 7.24/10. It ranks 5 among 13 eligible drugs. 71.4% of reviews have positive rating-derived labels.
+
+REPORTED EFFECTIVENESS
+The most frequent category is 'Highly Effective' (8/21 reviews, 38.1%).
+
+REPORTED SIDE-EFFECT SEVERITY
+The most frequent categories are tied: 'Moderate Side Effects', 'No Side Effects', each appearing in 7/21 reviews (33.3%).
+
+WHY THIS RANK?
+The score combines this drug's average rating with the condition's average rating. Smaller review groups are adjusted more strongly toward the condition average. Rank is determined by adjusted score, then review count, then drug name.
+
+BENEFITS REVIEW EXCERPTS
+- Review 2788 (rating 8/10): relieved depressive symptoms; not as weepy or anxious, did NOT interfere with libido/sexual performance; slight decrease in appetite (pt liked wt loss)
+- Review 2791 (rating 8/10): the treatment benefits were an increase of energy and an overall increase in mood while not affecting the libido. after 2yrs it stopped having the same affect.
+- Review 2806 (rating 8/10): The drug worked on reducing/eliminating my situational feelings of depression. Initially, it increased my energy and focus, and stopped the feelings of sadness. It did not make me feel like a "zombie" and I felt connected to my emotions and the people around me, which I had heard was a side effect of other anti-depressants.
+
+SIDE-EFFECT REVIEW EXCERPTS
+- Review 2788 (rating 8/10): increase in headaches, occasional nausea if taken on empty stomach
+- Review 2791 (rating 8/10): no side affects from this med
+- Review 2806 (rating 8/10): At first I had crazy dreams, whch wasn't so bad. I did not have any trouble falling asleep. I had very high energy for the first 2 weeks, then it tapered off back to normal. I wish the energy had remained. I did not lose any weight, which I was hoping for...but I did not gain any either, so that was positive.
+
+NOTES
+- Excerpts are selected around the group's median rating.
+- Excerpts do not establish how common a benefit or side effect is.
+- Ratings and categories are patient-reported.
+- Positive labels are derived from ratings.

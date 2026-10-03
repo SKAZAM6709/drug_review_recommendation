@@ -1,0 +1,85 @@
+{
+  "sentiment": {
+    "eligible_rows": 3060,
+    "empty_inputs_excluded": 0,
+    "folds": 5,
+    "unique_text_groups": 3060,
+    "class_counts": {
+      "negative": 656,
+      "neutral": 302,
+      "positive": 2102
+    },
+    "selected_model": "Logistic Regression",
+    "selected_cv_macro_f1": 0.525132657455609,
+    "selected_cv_accuracy": 0.7336601307189543,
+    "dummy_cv_macro_f1": 0.2714709171000398,
+    "beats_dummy_macro_f1": true,
+    "text_column": "combined_review",
+    "target_column": "sentiment_label",
+    "labels": [
+      "negative",
+      "neutral",
+      "positive"
+    ],
+    "model_file": "sentiment_pipeline.joblib",
+    "random_state": 42
+  },
+  "effectiveness": {
+    "eligible_rows": 3059,
+    "empty_inputs_excluded": 1,
+    "folds": 5,
+    "unique_text_groups": 3058,
+    "class_counts": {
+      "Ineffective": 246,
+      "Marginally Effective": 183,
+      "Moderately Effective": 409,
+      "Considerably Effective": 910,
+      "Highly Effective": 1311
+    },
+    "selected_model": "Logistic Regression",
+    "selected_cv_macro_f1": 0.4044424271633537,
+    "selected_cv_accuracy": 0.4841473850860584,
+    "dummy_cv_macro_f1": 0.11999995818022569,
+    "beats_dummy_macro_f1": true,
+    "text_column": "effectiveness_text",
+    "target_column": "effectiveness",
+    "labels": [
+      "Ineffective",
+      "Marginally Effective",
+      "Moderately Effective",
+      "Considerably Effective",
+      "Highly Effective"
+    ],
+    "model_file": "effectiveness_pipeline.joblib",
+    "random_state": 42
+  },
+  "severity": {
+    "eligible_rows": 3060,
+    "empty_inputs_excluded": 0,
+    "folds": 5,
+    "unique_text_groups": 3056,
+    "class_counts": {
+      "No Side Effects": 916,
+      "Mild Side Effects": 1001,
+      "Moderate Side Effects": 606,
+      "Severe Side Effects": 364,
+      "Extremely Severe Side Effects": 173
+    },
+    "selected_model": "Logistic Regression",
+    "selected_cv_macro_f1": 0.46178894895180794,
+    "selected_cv_accuracy": 0.5271178092259501,
+    "dummy_cv_macro_f1": 0.09859633020991922,
+    "beats_dummy_macro_f1": true,
+    "text_column": "severity_text",
+    "target_column": "side_effects",
+    "labels": [
+      "No Side Effects",
+      "Mild Side Effects",
+      "Moderate Side Effects",
+      "Severe Side Effects",
+      "Extremely Severe Side Effects"
+    ],
+    "model_file": "severity_pipeline.joblib",
+    "random_state": 42
+  }
+}

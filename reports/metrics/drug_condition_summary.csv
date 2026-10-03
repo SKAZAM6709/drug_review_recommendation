@@ -1,0 +1,2074 @@
+﻿condition_normalized,drug_name_normalized,review_count,average_rating
+depression,prozac,31,7.451612903225806
+depression,lexapro,26,6.153846153846154
+acne,accutane,22,8.227272727272727
+acne,differin,21,7.285714285714286
+depression,zoloft,21,7.0
+depression,effexor,21,6.619047619047619
+depression,wellbutrin,21,7.333333333333333
+insomnia,ambien,19,7.052631578947368
+hair loss,propecia,18,6.333333333333333
+depression,effexor-xr,16,5.5
+depression,paxil,16,6.1875
+depression,wellbutrin-xl,15,8.4
+acne,minocycline,13,5.384615384615385
+birth control,nuvaring,12,5.666666666666667
+hypothyroidism,synthroid,12,8.25
+migraine,imitrex,12,8.0
+high cholesterol,lipitor,12,6.916666666666667
+acne,retin-a,11,7.2727272727272725
+acne,doxycycline,11,6.7272727272727275
+depression,citalopram,11,7.363636363636363
+smoking cessation,chantix,10,7.6
+depression,cymbalta,10,7.3
+acne,retin-a-micro,10,6.9
+fibromyalgia,lyrica,9,4.666666666666667
+high blood pressure,prinivil,9,5.444444444444445
+add,vyvanse,9,7.777777777777778
+weight loss,adipex-p,9,7.888888888888889
+birth control,seasonique,9,5.333333333333333
+acne,spironolactone,9,8.333333333333334
+allergies,allegra,9,8.11111111111111
+birth control,yasmin,8,5.0
+insomnia,ambien-cr,8,6.0
+rosacea,metrogel,8,4.375
+asthma,singulair,8,6.375
+depression,wellbutrin-sr,8,7.875
+hypothyroidism,levoxyl,8,6.25
+insomnia,lunesta,8,5.875
+hair loss,proscar,7,6.285714285714286
+birth control,ortho-tri-cyclen,7,7.857142857142857
+migraine headaches,imitrex,7,8.0
+acne,doryx,7,6.285714285714286
+cold sores,valtrex,7,8.714285714285714
+anxiety,xanax,7,8.857142857142858
+migraines,topamax,7,6.0
+acid reflux,nexium,7,8.428571428571429
+migraine,zomig,7,7.571428571428571
+wrinkles,renova,6,6.0
+rheumatoid arthritis,methotrexate,6,8.333333333333334
+acid reflux,prevacid,6,7.333333333333333
+depression,sarafem,6,7.666666666666667
+allergies,zyrtec,6,8.0
+allergies,flonase,6,8.0
+acne,renova,6,8.0
+adhd,concerta,6,6.166666666666667
+acne,sotret,6,8.833333333333334
+acne,avita,6,7.666666666666667
+anxiety,valium,6,8.333333333333334
+adhd,vyvanse,6,8.666666666666666
+acid reflux,prilosec,6,7.5
+anxiety,ativan,6,7.166666666666667
+depression,celexa,6,5.166666666666667
+migraines,imitrex,6,7.833333333333333
+asthma,albuterol,6,8.166666666666666
+uti,macrobid,6,3.0
+smoking,chantix,5,8.2
+anxiety,lexapro,5,6.4
+menopause,prempro,5,9.2
+arthritis,celebrex,5,5.4
+diabetes,metformin,5,7.2
+high cholesterol,crestor,5,6.0
+anxiety,zoloft,5,9.4
+anxiety,klonopin,5,6.8
+adhd,strattera,5,6.0
+toenail fungus,lamisil,5,4.8
+melasma,tri-luma,5,2.6
+high cholesterol,zocor,5,4.4
+anxiety,paxil,5,8.6
+hypothyroid,synthroid,5,8.6
+gerd,nexium,5,8.8
+uti,cipro,5,4.0
+sinus infection,avelox,4,5.25
+add,adderall,4,8.25
+hairloss,propecia,4,8.25
+birth control,seasonale,4,7.0
+allergies,claritin,4,5.25
+asthma,advair-diskus,4,6.75
+asthma,advair-hfa,4,7.25
+herpes,valtrex,4,7.75
+hypertension,norvasc,4,8.0
+hypertension,prinivil,4,5.75
+male pattern baldness,propecia,4,8.0
+migraines,zomig,4,9.25
+nausea,zofran,4,8.25
+rheumatoid arthritis,humira,4,9.0
+smoking,zyban,4,7.5
+epilepsy,lamictal,4,8.0
+stop smoking,chantix,4,8.25
+genital herpes,valtrex,4,8.5
+urinary tract infection,cipro,4,7.25
+add,strattera,4,7.5
+depression/anxiety,lexapro,4,8.0
+acne,tetracycline,4,5.75
+birth control,depo-provera,4,6.0
+anxiety,lorazepam,4,4.25
+bipolar ii,lamictal,4,6.25
+acid reflux,protonix,4,8.75
+diabetes,glucophage,3,7.333333333333333
+hypothyroidism,armour-thyroid,3,9.666666666666666
+breast cancer,nolvadex,3,6.0
+high blood pressure,diovan,3,9.0
+acne,duac,3,6.666666666666667
+headache,tylenol,3,9.0
+depression,pristiq,3,9.0
+insomnia,seroquel,3,6.0
+gerd,prevacid,3,9.333333333333334
+adhd,adderall-xr,3,6.0
+fatigue,provigil,3,7.333333333333333
+fibromyalgia,ultram,3,8.666666666666666
+migraine,maxalt,3,9.0
+migraine,topamax,3,7.0
+gerd,zegerid,3,5.333333333333333
+contraception,yasmin,3,4.333333333333333
+cystic acne,accutane,3,6.333333333333333
+migraines,maxalt,3,9.666666666666666
+depression,lamictal,3,6.0
+adult acne,retin-a,3,8.333333333333334
+muscle spasms,flexeril,3,6.666666666666667
+depression/anxiety,zoloft,3,8.0
+obesity,meridia,3,8.0
+osteoporosis,actonel,3,6.0
+asthma,symbicort,3,5.333333333333333
+pigmentation,claripel-cream,3,7.666666666666667
+quit smoking,chantix,3,3.6666666666666665
+restless leg syndrome,mirapex,3,9.333333333333334
+restless leg syndrome,requip,3,8.0
+acne,triaz,3,7.666666666666667
+yeast infection,fluconazole,3,6.0
+rosacea,doxycycline,3,7.0
+allergy,claritin,3,5.333333333333333
+rosacea,oracea,3,6.0
+ankylosing spondylitis,enbrel,3,9.333333333333334
+sinus infection,levaquin,3,6.333333333333333
+sleep,ambien,3,7.0
+bipolar disorder,seroquel,3,9.333333333333334
+acne,tazorac,3,6.333333333333333
+acne,solodyn,3,3.3333333333333335
+smoking cessation,zyban,3,9.333333333333334
+ed,cialis,3,8.0
+thinning hair,propecia,3,4.666666666666667
+bronchitis,zithromax,3,6.333333333333333
+ulcerative colitis,asacol,3,4.333333333333333
+high blood pressure,micardis,3,3.6666666666666665
+cholesterol,lipitor,3,2.6666666666666665
+high blood pressure,hyzaar,3,7.0
+depression/anxiety,paxil,3,6.333333333333333
+fibromyalgia,elavil,3,6.0
+high blood pressure,norvasc,3,3.6666666666666665
+eczema,elidel,3,6.333333333333333
+hypothyroid,levoxyl,3,6.666666666666667
+acid reflux,zantac,3,8.666666666666666
+acid reflux,zegerid,3,5.666666666666667
+fibromyalgia,cymbalta,2,7.5
+hyperhidrosis,ditropan,2,2.5
+allergies,allegra-d,2,9.0
+crohn's disease,remicade,2,8.5
+blood clots,coumadin,2,5.0
+blood pressure,cozaar,2,8.5
+ear infection,amoxil,2,6.0
+allergies,nasonex,2,8.0
+weight loss,meridia,2,9.0
+allergies,singulair,2,6.0
+ear infection,augmentin,2,5.5
+fibromyalgia,desyrel,2,9.5
+weight loss,xenical,2,6.5
+weightloss,adipex-p,2,9.5
+acne,aldactone,2,8.5
+heart,coreg,2,8.0
+acne,azelex,2,5.5
+glaucoma,lumigan,2,9.5
+hyperpigmentation,tri-luma,2,6.5
+hypothyroidism,cytomel,2,10.0
+hypothyroidism,levothroid,2,9.5
+depression/anxiety,effexor-xr,2,8.5
+acne,finacea,2,8.5
+hysterectomy,premarin,2,10.0
+indigestion,prevacid,2,5.0
+inflamed neck muscles,flexeril,2,8.5
+acne,klaron,2,9.0
+acne,minocin,2,6.0
+insomnia,desyrel,2,1.0
+acne,oracea,2,6.0
+insomnia,restoril,2,6.5
+hot flashes,prempro,2,9.5
+insomnia,xyrem,2,9.5
+high cholesterol,vytorin,2,1.0
+back pain,flexeril,2,7.0
+fine lines,retin-a,2,7.5
+anxiety,alprazolam,2,9.0
+anxiety,buspar,2,8.0
+anxiety,clonazepam,2,9.0
+anxiety,cymbalta,2,8.5
+anxiety,effexor-xr,2,8.0
+migraine headaches,relpax,2,9.0
+migraine prevention,topamax,2,8.0
+migraines,fioricet,2,7.5
+attention deficit disorder,adderall,2,9.0
+anxiety,prozac,2,9.0
+hormone replacement,innofem,2,10.0
+heartburn,prilosec,2,3.5
+bacterial vaginosis,flagyl,2,5.0
+narcolepsy,provigil,2,9.0
+nasal allergies,flonase,2,10.0
+nasal polyps,flonase,2,7.5
+add,concerta,2,9.0
+obesity,adipex-p,2,7.0
+high blood pressure,lopressor,2,4.5
+obesity,xenical,2,6.5
+ocd,anafranil,2,6.5
+opiate addiction,methadone,2,9.0
+oral surgery,lortab,2,7.0
+osteopenia,alendronate,2,8.0
+anxiety and depression,lexapro,2,7.5
+osteoporosis,fosamax,2,2.5
+headache,ecotrin,2,8.5
+overactive bladder,detrol-la,2,8.0
+overweight,adipex-p,2,6.5
+pain,oxycodone,2,6.5
+pain,vicodin,2,6.5
+panic attacks,xanax,2,10.0
+panic disorder,klonopin,2,4.0
+panic disorder,paxil,2,8.0
+panic disorder,xanax,2,10.0
+pcos,metformin,2,8.5
+perioral dermatitis,doxycycline,2,8.5
+anxiety attacks,xanax,2,5.5
+pneumonia,prednisone,2,6.5
+psoriasis,enbrel,2,8.5
+psoriasis,methotrexate,2,6.5
+hair loss,minoxidil,2,9.0
+quitting smoking,chantix,2,4.0
+adhd,adderall,2,9.0
+depression,remeron,2,2.5
+rheumatoid arthritis,enbrel,2,9.5
+depression,symbyax,2,2.0
+bipolar,seroquel,2,4.5
+bipolar depression,lamictal,2,6.5
+rosacea,finacea,2,5.5
+bipolar disorder,lamictal,2,10.0
+gerd,prilosec,2,3.5
+rosacea,tetracycline,2,8.0
+seasonal allergies,allegra,2,8.5
+seasonal allergies,claritin,2,5.5
+seizure disorder,lamictal,2,9.0
+seizures,dilantin,2,8.5
+shingles,acyclovir,2,8.5
+sinus infection,augmentin,2,4.0
+adult add,strattera,2,5.5
+sinus infection,biaxin,2,6.5
+sinus infection,dispermox,2,3.5
+contraception,triphasil,2,10.0
+over weight,meridia,2,10.0
+situational anxiety,inderal,2,9.5
+skin infection,panixine-disperdose,2,10.0
+skin rash,elidel,2,7.0
+gerd,protonix,2,8.5
+sleeplessness,ambien,2,5.0
+adult adhd,vyvanse,2,9.0
+anxiety/depression,lexapro,2,9.0
+depression and anxiety,lexapro,2,8.5
+anxiety/depression,xanax,2,8.0
+social anxiety,paxil,2,4.0
+sparse eyelashes,latisse,2,9.5
+diarrhea,imodium,2,7.0
+strep throat,biaxin,2,7.5
+strep throat,omnicef,2,1.5
+sun damage,retin-a,2,5.5
+swine flu,tamiflu,2,10.0
+dry eyes,restasis,2,10.0
+thyroid goiter,armour-thyroid,2,8.0
+dvt,coumadin,2,9.0
+arthritis,diclofenac,2,8.5
+underactive thyroid,synthroid,2,10.0
+arthritis,mobic,2,9.5
+urinary tract infection,noroxin,2,10.0
+birth control,ortho-novum,2,7.0
+dyshidrosis,temovate,2,7.0
+wrinkles,avage,2,8.5
+wrinkles,avita,2,4.5
+asthma,ventolin-hfa,2,5.5
+yeast infection,diflucan,2,5.5
+acid reflux,aciphex,2,10.0
+chronic pain (neck and migraines),neurontin,2,6.0
+bladder infection,macrobid,2,5.5
+arthritis pain,celebrex,2,5.5
+high blood pressure,tenormin,2,10.0
+erectile dysfunction,cialis,2,9.0
+fungal toenails,lamisil,2,5.5
+sinusitis,allegra,2,7.0
+allergic rhinitis,zyrtec,1,10.0
+allergies,clarinex,1,3.0
+allergies,fexofenadine,1,10.0
+allergies,rhinocort,1,7.0
+allergies,xyzal,1,4.0
+allergies,zovirax,1,10.0
+allergies,zyrtec-d,1,9.0
+allergies and asthma,clarinex,1,8.0
+"allergies sneezing , watery runny nose",claritin,1,1.0
+allergy,allegra,1,6.0
+allergy,flonase,1,5.0
+allergy,zyrtec,1,8.0
+allergy induced asthma,clarinex,1,9.0
+allergy to trauma to the face.,cyproheptadine,1,9.0
+"allergy, runny nose, hay fever",cyproheptadine,1,3.0
+alopecia,avodart,1,8.0
+alopecia,proscar,1,6.0
+alzheimer's,aricept,1,2.0
+alzheimer's/dementia,aricept,1,1.0
+alzheimers,aricept,1,9.0
+"amputee, constant sores on stump",bactroban,1,6.0
+ankle sprain,tramadol,1,9.0
+ankylosing spondalytis,motrin,1,9.0
+ankylosing spondylitis,humira,1,10.0
+ankylosing spondylitis,naprosyn,1,8.0
+anti aging,avage,1,8.0
+anti aging,renova,1,1.0
+anti aging,tazorac,1,6.0
+anti malarial,malarone,1,5.0
+anti seizure,keppra,1,9.0
+anti-aging prophilatic,metformin,1,9.0
+"anti-aging, acne",retin-a-micro,1,8.0
+anti-depressant,wellbutrin-xl,1,10.0
+anti-inflammatory/pain,celebrex,1,7.0
+anti-malarial,doxycycline,1,10.0
+anti-rejection,prograf,1,10.0
+antiaging,tazorac,1,6.0
+antibiotic to treat oral infection,erythromycin,1,5.0
+antidepressant,prozac,1,4.0
+anxeity,zoloft,1,10.0
+anxety / depression,wellbutrin,1,1.0
+anxiety,atarax,1,1.0
+anxiety,desyrel,1,2.0
+anxiety,effexor,1,4.0
+anxiety,risperdal,1,8.0
+anxiety,sarafem,1,3.0
+anxiety,seroquel,1,1.0
+anxiety,vistaril,1,1.0
+anxiety,wellbutrin,1,4.0
+anxiety & depression,celexa,1,6.0
+anxiety / restlessness,zoloft,1,7.0
+anxiety and depression,cymbalta,1,8.0
+anxiety and depression,effexor,1,8.0
+anxiety and depression,effexor-xr,1,8.0
+anxiety and depression,klonopin,1,9.0
+anxiety and depression,mirtazapine,1,9.0
+anxiety and mild depression,celexa,1,10.0
+anxiety and to avoid feeling misrable,provigil,1,4.0
+anxiety attacks,azor,1,8.0
+anxiety depression,lexapro,1,1.0
+anxiety disorder,citalopram,1,10.0
+anxiety disorder,effexor,1,10.0
+anxiety disorder,zoloft,1,4.0
+anxiety due to relationship stress,oxazepam,1,10.0
+anxiety from a reaction,ativan,1,1.0
+anxiety insomnia,clonazepam,1,10.0
+anxiety rapid onset,xanax-xr,1,8.0
+anxiety related to severe pms,xanax,1,10.0
+"anxiety, depresion",lexapro,1,7.0
+"anxiety, depression",lexapro,1,7.0
+"anxiety, depression, panic attacks",remeron,1,10.0
+"anxiety, hopelessness",prozac,1,8.0
+"anxiety, mild depression",effexor-xr,1,8.0
+"anxiety, ocd",citalopram,1,8.0
+"anxiety, panic attack",citalopram,1,10.0
+"anxiety, panic attck, nervousness",alprazolam,1,8.0
+"anxiety, panic disorder",valium,1,10.0
+"anxiety, stress",lexapro,1,1.0
+"anxiety,depression",paxil,1,6.0
+anxiety/ depression,effexor,1,8.0
+anxiety/ mild depression,wellbutrin,1,9.0
+anxiety/ ocpd /depression,effexor-xr,1,7.0
+anxiety/ pain,cymbalta,1,2.0
+anxiety/depreesion,citalopram,1,1.0
+anxiety/depression,cymbalta,1,2.0
+anxiety/depression,effexor,1,10.0
+anxiety/depression,valium,1,10.0
+anxiety/depression,wellbutrin-xl,1,10.0
+anxiety/insomnia,mirtazapine,1,6.0
+anxiety/insomnia/,clonazepam,1,4.0
+anxiety/mild ptsd,seroquel,1,8.0
+anxiety/panic attacks,zoloft,1,5.0
+anxiety/trouble sleeping,xanax,1,10.0
+anxiety/worry,fluvoxamine,1,5.0
+appetite control,topamax,1,9.0
+appetite suppression,adipex-p,1,9.0
+arthritis,arava,1,8.0
+arthritis,arthrotec,1,7.0
+arthritis,naprosyn,1,8.0
+arthritis,naproxen,1,10.0
+arthritis,tramadol,1,8.0
+arthritis,voltaren,1,9.0
+arthritis in knees,voltaren,1,9.0
+arthritis pain,mobic,1,8.0
+arthritis pain,ultram,1,10.0
+"arthritis pain, neck injury",motrin,1,8.0
+arthritis/knee pain,mobic,1,6.0
+astham,albuterol,1,1.0
+asthma,asmanex,1,10.0
+asthma,flovent,1,10.0
+asthma,prednisone,1,5.0
+asthma,quibron-t,1,5.0
+asthma,qvar,1,10.0
+asthma,spiriva,1,9.0
+asthma - repeated chest infections,singulair,1,1.0
+asthma \ allergies,singulair,1,5.0
+asthma flares,proair-hfa,1,8.0
+"asthma, allergies",singulair,1,2.0
+"asthma, emphysema",symbicort,1,10.0
+asthma/allergies,singulair,1,9.0
+asthma/copd,symbicort,1,2.0
+asthmas/ rhinitis,singulair,1,8.0
+asthmatic bronchitis,advair-diskus,1,9.0
+asthmatic bronchitis,biaxin,1,10.0
+athletes foot,lamisil,1,10.0
+atopic dernatitis,elidel,1,1.0
+atopic eczema,zyrtec,1,10.0
+atrial fib,diltiazem,1,1.0
+atrial fibrillation,atenolol,1,1.0
+atrial frbulation,tenormin,1,9.0
+attention deficit disorder (inattentive type),adderall-xr,1,9.0
+"attention deficit problems, concentration difficul",selegiline,1,7.0
+atypical breast biopsy,evista,1,9.0
+atypical hyperplasia in breast and hypothyrodism,soltamox,1,10.0
+"auto accident, severe whiplash",naproxen,1,6.0
+back injury,soma,1,5.0
+back pain,mobic,1,1.0
+back pain,percocet,1,6.0
+back pain,soma,1,9.0
+back pain,ultram,1,5.0
+back pain slipped disk,diclofenac,1,7.0
+back pain/depression,tramadol,1,10.0
+back pain; restlessness,nortriptyline,1,8.0
+back stiffness,motrin,1,10.0
+bacterial growth,metronidazole,1,8.0
+bacterial infection,augmentin,1,4.0
+bacterial infection,metrogel,1,1.0
+bacterial infection in patient with copd,prednisolone,1,9.0
+bacterial infectoin,flagyl,1,1.0
+bacterial lung infection,metronidazole,1,1.0
+baker's cysts behind both knees,sulindac,1,4.0
+baldness,propecia,1,8.0
+ballanitis,bactrim-ds,1,1.0
+barretts disease,prilosec,1,9.0
+basal cell and squamous cancer,aldara,1,7.0
+basal cell carcinoma,aldara,1,10.0
+beginning of osteoporosis of the hip,fosamax,1,1.0
+behcet's disease,trental,1,7.0
+bi-polar,lamictal,1,8.0
+bi-polar,wellbutrin-sr,1,10.0
+bi-polar 2,lamictal,1,8.0
+bi-polar disorder,depakote,1,10.0
+bi-polar disorder,neurontin,1,3.0
+bi-polar mania with anger issues,risperdal,1,3.0
+bipolar,abilify,1,8.0
+bipolar,lamictal,1,8.0
+bipolar 2,seroquel-xr,1,9.0
+bipolar 2-extreme moods swings,lamotrigine,1,10.0
+bipolar disorder,abilify,1,3.0
+bipolar disorder,lamotrigine,1,9.0
+bipolar disorder,neurontin,1,10.0
+bipolar disorder,paxil,1,4.0
+bipolar disorder,risperdal,1,4.0
+bipolar disorder,seroquel-xr,1,10.0
+bipolar disorder,wellbutrin,1,8.0
+bipolar disorder / insomnia,seroquel,1,9.0
+bipolar disorder and depression,lamictal,1,8.0
+bipolar disorder ii,lithium-carbonate,1,8.0
+bipolar disorder type ii,zyprexa,1,1.0
+"bipolar disorder with severe lows & fatigue,",provigil,1,7.0
+bipolar i,seroquel,1,8.0
+bipolar ii,seroquel,1,8.0
+bipolar ii,topamax,1,7.0
+bipolar mania,seroquel,1,7.0
+bipolar/mixed manic episodes/severe depression,lamictal,1,9.0
+bipolar/raciness/insomnia,seroquel,1,8.0
+birth control,mirena,1,3.0
+birth control,ortho-evra,1,7.0
+birth control,ortho-tri-cyclen-lo,1,8.0
+birth control method,ortho-tri-cyclen,1,10.0
+birth control pill,levora,1,10.0
+"birth control, acne control",yasmin,1,10.0
+"birth control, menstrual cramps",yasmin,1,8.0
+birth control. prevention of pregnacy,seasonique,1,2.0
+birth control/ regular periods.,nuvaring,1,9.0
+birth prevention,ortho-tri-cyclen,1,1.0
+birthcontrol,ortho-tri-cyclen,1,10.0
+"blackheads,large pores,sun damage",retin-a-micro,1,10.0
+bladder control,enablex,1,1.0
+bladder infection,erythromycin,1,2.0
+bladder infections,keflex,1,1.0
+bladder infections,trimethoprim,1,10.0
+bladder pressure,detrol-la,1,8.0
+blepharospasm,clonazepam,1,3.0
+blood pressure,norvasc,1,10.0
+blood pressure,prinivil,1,1.0
+bone density tests showed early osteo.,alendronate,1,3.0
+"borderline personality disorder, bi polar",lamotrigine,1,3.0
+bph,cardura-xl,1,8.0
+bph,flomax,1,10.0
+bph,proscar,1,9.0
+breast cancer,aromasin,1,9.0
+breast cancer,femara,1,7.0
+breast cancer,soltamox,1,5.0
+broken collarbone,vicodin,1,8.0
+broken ribs,dilaudid,1,8.0
+broken ribs,soma,1,2.0
+bronchial infection,augmentin,1,10.0
+bronchial infection,dexamethasone,1,3.0
+bronchitis,albuterol,1,10.0
+bronchitis,avelox,1,1.0
+bronchitis,doxycycline,1,3.0
+bronchitis,zmax,1,6.0
+bronchitus,amoxil,1,3.0
+bronkitis,albuterol,1,9.0
+brow wrinkles,dysport,1,3.0
+brown spots,claripel-cream,1,5.0
+budging disk in neck,ultram,1,8.0
+buldging/ruptured disc,percocet,1,6.0
+burn from motorcycle accident,vicodin,1,8.0
+burning feeling in throat and chest,nexium,1,5.0
+bursitis,celebrex,1,2.0
+bursitis,mobic,1,3.0
+bursitis and tennis elbow,voltaren,1,10.0
+can't sleep,ambien-cr,1,10.0
+cancer related pain,duragesic,1,2.0
+cancer/constant pain,duragesic,1,7.0
+candida caused yeast infection,diflucan,1,3.0
+candida rashes,nystatin,1,4.0
+capsuar contracture of breast implant,accolate,1,1.0
+cardiomyopathy,coreg,1,10.0
+carpal tunnel,naproxen,1,1.0
+cat bite,doxycycline,1,9.0
+cat bite infection,augmentin,1,5.0
+cellulitis,cipro,1,10.0
+cellulitis (skin infection on my leg),levaquin,1,1.0
+cervical spondylosis,hydrocodone-and-acetaminophen,1,9.0
+cesarean,vicodin,1,10.0
+chest infection,amoxil,1,9.0
+chest infection (viral),prednisone,1,9.0
+chest infections,proquin-xr,1,5.0
+cholesterol,crestor,1,10.0
+cholesterol,vytorin,1,10.0
+cholesterol,zocor,1,1.0
+cholesterol problems,niaspan,1,8.0
+cholesterol slightly elevated,lipitor,1,1.0
+cholesterol/high blood pressure,caduet,1,3.0
+"chronic ""atypical"" depression",emsam,1,9.0
+chronic back pain,percocet,1,5.0
+chronic back pain,voltaren,1,2.0
+chronic back pain/depression/anxiety,cymbalta,1,10.0
+chronic bronch/asthma,albuterol,1,2.0
+chronic cold sores,valtrex,1,8.0
+chronic cough and allergies,singulair,1,8.0
+chronic cystitis,nitrofurantoin,1,5.0
+chronic daily headache,neurontin,1,9.0
+chronic depression,effexor-xr,1,6.0
+chronic headaches,elavil,1,10.0
+chronic heartburn,protonix,1,10.0
+chronic hives,singulair,1,2.0
+chronic insomnia,mirtazapine,1,9.0
+chronic leg pain due to trauma & surgeries,tramadol,1,8.0
+chronic musculoskeletal pain (neck/back),flexeril,1,7.0
+"chronic neck/back pain, chronic tension headache",cymbalta,1,5.0
+chronic nerve pain from back surgery,oxycontin,1,8.0
+chronic pain,actiq,1,1.0
+chronic pain,lyrica,1,8.0
+chronic pain,neurontin,1,10.0
+chronic pain due to neck injury and surgeries,fentanyl,1,8.0
+chronic pain from degenerative lumbar disc disease,oxycodone,1,9.0
+"chronic pain, fibromyalgia",neurontin,1,1.0
+chronic pelvic pain,neurontin,1,2.0
+chronic rhinitis and allergies,zyrtec,1,7.0
+chronic severe insomnia,trazodone,1,10.0
+chronic sinus congestion,claritin,1,5.0
+"chronic sinus infection (long term), post nasal dr",flonase,1,10.0
+chronic sinus infections,flonase,1,10.0
+chronic sinusitis,flonase,1,8.0
+chronic sinusitis,singulair,1,8.0
+chronic tension headache,fioricet,1,8.0
+chronic tension headaches/ mild depression,cymbalta,1,8.0
+chronic urinary and yeast infections due to drynes,vagifem,1,10.0
+clamydia,doxycycline,1,7.0
+clearing skin,retin-a-micro,1,5.0
+clinical depression,effexor-xr,1,2.0
+clinical depression,lexapro,1,1.0
+clinical depression,mirtazapine,1,2.0
+clinical depression,zoloft,1,6.0
+cluster headache,zomig,1,8.0
+cocaine dependency,nuvigil,1,10.0
+cognitive enhancement,selegiline,1,8.0
+cold,claritin,1,8.0
+cold / flu,zmax,1,10.0
+cold chills and hot flashes,innofem,1,10.0
+cold sore,acyclovir,1,10.0
+cold sore below lip,acyclovir,1,10.0
+cold sore on side of face,valtrex,1,9.0
+"cold sore, fever blister",zovirax,1,7.0
+cold sore/fever blister (herpes-simplex),valtrex,1,9.0
+cold sores,acyclovir,1,10.0
+cold sores/ herpes i,zovirax,1,5.0
+cold sores/fever blisters,acyclovir,1,9.0
+coldsores,valtrex,1,10.0
+colestrol,zocor,1,3.0
+colitis,remicade,1,5.0
+collar bone injury,tramadol,1,8.0
+complete hysterectomy,climara,1,8.0
+congestion,flonase,1,7.0
+congestion,nasonex,1,10.0
+congestive heart failure and edema,lasix,1,7.0
+conjunctivitis,polymyxin-b,1,10.0
+conjunctivitus,vigamox,1,10.0
+conn's syndrome,inspra,1,2.0
+constant coughing due to mucous,advair-hfa,1,9.0
+contact dermatitis,clobex,1,9.0
+contraception,depo-provera,1,1.0
+contraception,levora,1,7.0
+contraception,nuvaring,1,8.0
+contraception,ortho-tri-cyclen-lo,1,9.0
+contraception,xenical,1,8.0
+contraceptive,estrostep-fe,1,10.0
+contraceptive,nuvaring,1,10.0
+contraceptive,ortho-tri-cyclen,1,9.0
+controceptive; help with pmsd,yasmin,1,1.0
+copd,advair-diskus,1,1.0
+cornea transplant rejection,prednisone,1,2.0
+cosmetic longer lashes,lumigan,1,7.0
+cough,augmentin,1,2.0
+"cramps, birth control",yasmin,1,10.0
+"crashing fatigue, hot flashes, mood swings",prempro,1,10.0
+crohn's,naltrexone,1,10.0
+crohn's disease,deltasone,1,6.0
+crohn's disease,humira,1,7.0
+crohn's disease,imuran,1,10.0
+crohn's disease,mercaptopurine,1,8.0
+crohn's disease,pentasa,1,10.0
+crohn's disease,sulfasalazine,1,1.0
+crohn's with fistula in ano,remicade,1,10.0
+crohn's/colitis,celebrex,1,7.0
+crohns disease,asacol,1,6.0
+crohns disease & colitis,remicade,1,2.0
+"crohns disease, psoriatic arthritis",remicade,1,7.0
+cure for acne,yasmin,1,9.0
+"cut on knee from fall,waited too long to get stmus",mobic,1,9.0
+cyclic vomiting syndrome,zofran,1,1.0
+cystic acne,minocin,1,8.0
+cystic acne,retin-a,1,8.0
+cystic acne,retin-a-micro,1,3.0
+cystic acne on chin and jaw,renova,1,10.0
+cystic fibrosis,zithromax,1,10.0
+daily migraines 2-3 times a day,imitrex,1,8.0
+dandruff,nizoral-shampoo,1,9.0
+dark skin spots on face,tri-luma,1,2.0
+dark spots,avage,1,5.0
+daytime drowsiness,provigil,1,8.0
+deep gum pockets,doxycycline,1,6.0
+"degenerative disc disorder, spinal stenosis l1-s1",neurontin,1,5.0
+delayed gastric emptying-nausea,reglan,1,10.0
+dementia (altzheimer's diesease),aricept,1,7.0
+dental surgery,clindamycin,1,3.0
+dental surgery,periogard,1,10.0
+depresion anxiety obsessive behavior,lamictal,1,9.0
+depressio,prozac,1,7.0
+depression,adderall,1,5.0
+depression,desyrel,1,7.0
+depression,diazepam,1,3.0
+depression,elavil,1,10.0
+depression,emsam,1,9.0
+depression,neurontin,1,8.0
+depression,pamelor,1,7.0
+depression,paxil-cr,1,4.0
+depression,serzone,1,3.0
+depression,zyprexa,1,10.0
+depression & anxiety,lexapro,1,9.0
+depression (atypical),nardil,1,9.0
+depression and anxiety,celexa,1,3.0
+depression and anxiety,effexor,1,8.0
+depression and anxiety,elavil,1,5.0
+depression and anxiety,lamictal,1,7.0
+depression and anxiety,lamotrigine,1,6.0
+depression and anxiety,paxil,1,10.0
+depression and anxiety.,paxil,1,8.0
+depression and generalized anxiety,lexapro,1,5.0
+depression anxiety,cymbalta,1,5.0
+depression not resolved with antidepressant drugs,abilify,1,2.0
+depression pain,cymbalta,1,1.0
+depression with anxiety,prozac,1,8.0
+"depression, a.d.d., mood instability",prozac,1,7.0
+"depression, anxiety",lexapro,1,4.0
+"depression, anxiety & pain",cymbalta,1,10.0
+"depression, anxiety, ocd, nausea",mirtazapine,1,2.0
+"depression, axiety",effexor-xr,1,2.0
+"depression, fatigue",wellbutrin-xl,1,9.0
+"depression, irritability",celexa,1,8.0
+"depression, lack of motivation",lexapro,1,4.0
+"depression, ptsd",lexapro,1,9.0
+"depression, ptsd fatigue",adderall,1,8.0
+"depression, social anxiety disorder",paxil,1,7.0
+"depression, tension headache",elavil,1,10.0
+depression-anxiety,wellbutrin,1,7.0
+depression/ anxiety,celexa,1,6.0
+depression/ cfs,effexor,1,9.0
+depression/add,adderall,1,10.0
+depression/anxiety,abilify,1,10.0
+depression/anxiety,citalopram,1,2.0
+depression/anxiety,cymbalta,1,7.0
+depression/anxiety,lamotrigine,1,2.0
+depression/anxiety,pristiq,1,8.0
+depression/anxiety/ptsd,paxil,1,3.0
+depression/difficulty sleeping,trazodone,1,10.0
+depression/dysthymia,wellbutrin-xl,1,9.0
+depression/insomnia,elavil,1,7.0
+depression/panic disorder,celexa,1,8.0
+depression/post-partum,wellbutrin,1,8.0
+depression/stress,prozac,1,9.0
+depression;,zoloft,1,8.0
+depression; intrusive suicidal impulses,wellbutrin,1,10.0
+depresson/anxiety,zoloft,1,7.0
+dermatitis,lidex,1,7.0
+dermatitis herpetiformis,dapsone,1,8.0
+diabetes,actos,1,7.0
+diabetes,byetta,1,10.0
+diabetes,metformin-extended-release,1,10.0
+diabetes,prinivil,1,4.0
+diabetes type 2,metformin,1,8.0
+diabetes type ii,byetta,1,8.0
+diabetese,metformin,1,10.0
+diabetic,byetta,1,8.0
+diareaha,flagyl,1,1.0
+diarrhea,metronidazole,1,1.0
+diarrhoea/ibs,imodium,1,9.0
+diet,adipex-p,1,9.0
+difficulty getting/holding erection,adcirca,1,2.0
+difficulty sleeping,ambien,1,10.0
+difficulty sleeping,xanax,1,9.0
+difficulty sleeping because of nervous system prob,neurontin,1,10.0
+discoloration,claripel-cream,1,8.0
+"dizzyness,, vertigo, nausea,",antivert,1,10.0
+dog bite prophylaxis,metronidazole,1,3.0
+drug addiction,methadone,1,8.0
+dry eye,restasis,1,1.0
+dust allergy,allegra,1,4.0
+dysthymia,effexor-xr,1,10.0
+dystimia,cymbalta,1,7.0
+ear and throat infection,biaxin,1,3.0
+ear infection,ceclor,1,1.0
+ear infection,cefzil,1,8.0
+ear infection,dispermox,1,10.0
+ear infection,zithromax,1,10.0
+ear infection and upper respiratory infection,zithromax,1,9.0
+earache,neoprofen,1,10.0
+earache/sinusitis,augmentin,1,8.0
+early onset osteoporosis,fosamax,1,1.0
+eczema,claritin,1,9.0
+eczema,elocon,1,10.0
+eczema,hydrocortisone,1,10.0
+eczema,triamcinolone,1,9.0
+eczyma,zyrtec,1,10.0
+ed,levitra,1,10.0
+ed,viagra,1,10.0
+elarge pores blackheads around nose & cheeks,differin,1,4.0
+elevated cholesterol,lipitor,1,10.0
+elevated glucose,glucophage,1,8.0
+endometrial hyperplasia,provera,1,7.0
+endometriosis,lupron,1,1.0
+environmental allergies,zyrtec,1,10.0
+eosinophilic esophagitis,prevacid,1,5.0
+eostrogen-positive breast cancer,aromasin,1,8.0
+epididymitus,doxycycline,1,4.0
+epidimytis,cipro,1,7.0
+epilepsy,tegretol,1,5.0
+epilepsy,topamax,1,10.0
+epilepsy,trileptal,1,8.0
+epilpsy,lamotrigine,1,9.0
+erectile disfunction,cialis,1,9.0
+erectile disfunction,viagra,1,4.0
+erectile dysfunction,levitra,1,8.0
+erectile dysfunction,viagra,1,10.0
+erictile dysfunction,levitra,1,8.0
+eryhema nodosum,voltaren,1,5.0
+esophogeal strictures,nexium,1,8.0
+essential tremor,inderal,1,9.0
+estrogen replacement therapy,premarin,1,8.0
+eustachian tube pain,flonase,1,10.0
+excess stomach acid.,prevacid,1,10.0
+"excessive coughing, later diagnosed as pneumonia",augmentin,1,3.0
+excessive fatigue,provigil,1,10.0
+extra heartbeat,atenolol,1,10.0
+extreme hot flashes,estratest,1,10.0
+extremely dry skin,lac-hydrin,1,5.0
+extremely severe anxiety,ativan,1,9.0
+extrinsic aging,retin-a,1,10.0
+exzema of the face,desonide,1,4.0
+eye infection,ampicillin,1,10.0
+eyelash growth,lumigan,1,4.0
+eyelash loss,latisse,1,10.0
+ezcema,protopic,1,8.0
+facial,vaniqa,1,8.0
+facial acne,tazorac,1,6.0
+facial hair,spironolactone,1,6.0
+facial herpes simplex,valtrex,1,8.0
+facial hyperpigmentation,tri-luma,1,5.0
+facial lines,botox,1,9.0
+facial skin,renova,1,10.0
+familial hypercholesterolaemia,crestor,1,1.0
+family flu outbreak,tamiflu,1,10.0
+fatigue / malaise due to infections,provigil,1,9.0
+fatigue from rheumatoid arthiritis,provigil,1,10.0
+fatigue not being able to get up in am,provigil,1,7.0
+"fatique, depression",synthroid,1,10.0
+"female problems, trying to get pregnant, ovulation",clomid,1,9.0
+fertility,clomid,1,7.0
+fever,tylenol,1,8.0
+fever and tonsilitis,dispermox,1,9.0
+fever blisters,zovirax,1,8.0
+fibromyalgia,ritalin,1,10.0
+fibromyalgia,trazodone,1,2.0
+fibromyalgia,ultracet,1,10.0
+fibromyalgia,xyrem,1,9.0
+fibromyalgia and depression,cymbalta,1,1.0
+fibromyalgia and myofacial pain,lyrica,1,8.0
+fibromyalgia pain,tramadol,1,5.0
+"fibromyalgia, failed back syndrome",lyrica,1,1.0
+fibromylgia,lyrica,1,8.0
+fine lines around eyes and mouth. between the brow,retin-a,1,7.0
+fine lines/wrinkles,tazorac,1,8.0
+fine wrinkles,retin-a,1,8.0
+fingernail fungus,lamisil,1,7.0
+flat warts,retin-a,1,4.0
+flu,tamiflu,1,9.0
+flu symptoms,tamiflu,1,10.0
+fluid retention increased bp,hydrochlorothiazide,1,9.0
+focus,vyvanse,1,7.0
+folliculitis of scalp,solodyn,1,6.0
+foot surgery,percocet,1,1.0
+for allergic condition and there after begning of,zyrtec,1,10.0
+for back pain,toradol,1,1.0
+for epilepsy,keppra,1,5.0
+"for tramflap surgery,implant removal",morphine,1,1.0
+for treating wrinkles,renova,1,10.0
+for wrinkle (line) reduction,botox,1,5.0
+forehead frown lines,botox,1,1.0
+frequent and urgent urination,detrol-la,1,1.0
+frequent urination,flomax,1,10.0
+frozen shoulder,naproxen,1,1.0
+fun,vyvanse,1,7.0
+functional dyspepsia,protonix,1,9.0
+fungal growth on feet,lamisil,1,10.0
+fungus,grifulvin-v,1,10.0
+fungus on big toes,lamisil,1,10.0
+gad - generalised anxiety disorder.,buspar,1,9.0
+gastric esophageal reflux,nexium,1,10.0
+gastritis,prilosec,1,10.0
+gastritis,zegerid,1,10.0
+"gastritis, nausea, fullness",nexium,1,6.0
+gastro esophageal reflux disease (gerd),ranitidine,1,9.0
+gastrointestinal disorder,protonix,1,1.0
+general depression/perimenopause,lexapro,1,10.0
+generalized anxiety disorder,effexor,1,8.0
+generalized anxiety disorder,klonopin,1,8.0
+generalized anxiety disorder,serzone,1,8.0
+genital herpes,zovirax,1,10.0
+genitofemoral nerve damage,neurontin,1,1.0
+gerd (gastroesophogeal reflux disease),nexium,1,10.0
+gerd - gastroesophageal reflux disease,prilosec,1,10.0
+gerd with laryngeal spasms,nexium,1,9.0
+gerd/acid reflux,prevacid,1,9.0
+gerd/barret's esophogus,nexium,1,10.0
+gi irritation,protonix,1,7.0
+giant cell arteritis,prednisone,1,7.0
+giardiasis,metronidazole,1,4.0
+glacoma,lumigan,1,8.0
+glandular fever,amoxil,1,1.0
+glaucoma,azopt,1,10.0
+glaucoma,cosopt,1,9.0
+glaucoma,xalatan,1,8.0
+glucoma,lumigan,1,10.0
+gonorrhea,doxycycline,1,9.0
+gout,aloprim,1,8.0
+grand mal seizures,keppra,1,1.0
+grave's disease,methimazole,1,10.0
+grow lashes,latisse,1,10.0
+hair growth,lumigan,1,9.0
+hair less,propecia,1,9.0
+hair lose,propecia,1,8.0
+hair loss,avodart,1,7.0
+hair loss,nizoral,1,8.0
+hair loss,spironolactone,1,5.0
+"hair loss, receding hairline",propecia,1,8.0
+hair regrowth,propecia,1,8.0
+hair thinning,propecia,1,9.0
+hairloss,proscar,1,7.0
+hand dermatitis,clobex,1,10.0
+hard time getting asleep,trazodone,1,8.0
+hashimoto's hypothyroidism,synthroid,1,10.0
+hashimotos disease,synthroid,1,10.0
+have not stop bleeding,seasonique,1,1.0
+hay fever,zyrtec-d,1,5.0
+hay fever type allergy reactions,singulair,1,10.0
+"hay fever, allergies",allegra,1,8.0
+hbp,prinivil,1,10.0
+head injuries,zoloft,1,8.0
+head injury,selegiline,1,3.0
+head injury/concussion,aricept,1,7.0
+headache,compazine,1,1.0
+headaches,dilaudid,1,1.0
+headaches,fiorinal,1,7.0
+headaches,flexeril,1,9.0
+headaches,maxalt,1,9.0
+headaches,motrin,1,10.0
+headaches,ultram,1,1.0
+"headaches, menstrual aches/cramps, fever",neoprofen,1,10.0
+heart burn,aciphex,1,9.0
+heart burn,nexium,1,8.0
+heart burn,prevacid,1,7.0
+heart burn,prilosec,1,10.0
+heart condition,warfarin,1,6.0
+heart murmur/dental procedures,amoxil,1,7.0
+heart palpitations,bystolic,1,10.0
+heart problem,ecotrin,1,8.0
+heartburn/gerd,nexium,1,8.0
+heartburn/gerd,prilosec,1,4.0
+heavy menses,provera,1,5.0
+heavy period,nuvaring,1,1.0
+heavy periods,ortho-tri-cyclen,1,10.0
+"heavy periods, thickened endometrium",medroxyprogesterone,1,6.0
+heavy periods/cramping,seasonique,1,2.0
+hemorrhagic cystitis,levaquin,1,10.0
+hepatitis b,baraclude,1,10.0
+hepatitis c,ribavirin,1,10.0
+heratburn,zantac,1,10.0
+herniated disk in my lower back,ultracet,1,5.0
+herpes,zovirax,1,7.0
+herpes cold sores around mouth and nose,valtrex,1,10.0
+herpes zoster,zovirax,1,10.0
+hgh deficiency & hiv,omnitrope,1,7.0
+hiatal hernia and ileocecal valve syndrome,protonix,1,10.0
+"hiatus hernia, indigestion, acid reflux",elavil,1,9.0
+high blood preasure,norvasc,1,9.0
+high blood pressue -- diuretic,benicar-hct,1,9.0
+high blood pressure,atacand,1,9.0
+high blood pressure,benicar,1,9.0
+high blood pressure,catapres,1,8.0
+high blood pressure,cozaar,1,10.0
+high blood pressure,enalapril,1,6.0
+high blood pressure,fosinopril,1,4.0
+high blood pressure,hydrochlorothiazide,1,6.0
+high blood pressure,lipitor,1,7.0
+high blood pressure,lotrel,1,7.0
+high blood pressure,sular,1,10.0
+high blood pressure,toprol-xl,1,9.0
+high blood pressure,vasotec,1,7.0
+high blood pressure,zestoretic,1,10.0
+high blood pressure,ziac,1,8.0
+high blood pressure after prewgnancy,avapro,1,10.0
+high blood pressure and,toprol-xl,1,7.0
+high blood presure,hytrin,1,10.0
+high bloodpressure,prinivil,1,10.0
+high bp,diovan,1,3.0
+high c,lipitor,1,4.0
+high chloresteral,zocor,1,1.0
+high cholesteol,lipitor,1,9.0
+high cholesteral,lipitor,1,10.0
+high cholesteral,niaspan,1,7.0
+high cholesterol,niacor,1,3.0
+high cholesterol,niaspan,1,10.0
+high cholesterol,omacor,1,8.0
+high cholesterol and triglycerides (21.1!),crestor,1,2.0
+high cholestoral,zocor,1,10.0
+high cholestral,lipitor,1,10.0
+high cholestrol,crestor,1,9.0
+high cholestrol,lipitor,1,10.0
+high colesteral,crestor,1,10.0
+high colesterol,zocor,1,1.0
+high colesterol level,lipitor,1,10.0
+high colestrol,niaspan,1,2.0
+high colorestoral,lipitor,1,3.0
+high interoccular pressure,cosopt,1,9.0
+high intraocular pressure (glaucoma),pilocarpine,1,3.0
+high ldl,trilipix,1,8.0
+high level anxiety/depression,effexor-xr,1,9.0
+high level of prolactin,parlodel,1,10.0
+high lpa,niaspan,1,8.0
+hip flexor & back pain,celebrex,1,10.0
+hiv,atripla,1,10.0
+hives,allegra,1,8.0
+hives,atarax,1,1.0
+hives,pepcid,1,7.0
+hives,prednisone,1,10.0
+hives,zantac,1,8.0
+"hives, itching, swelling due to allergies",zyrtec,1,10.0
+hormonal acne,aldactone,1,3.0
+hormonal acne,spironolactone,1,6.0
+hormonal imbalances and pregnancy prevention,depo-provera,1,9.0
+hormone and for prevention of osteoporosis,premarin,1,10.0
+hormone replacement,premarin,1,10.0
+hormone replacement,vivelle-dot,1,10.0
+hormone replacement therapy,premarin,1,10.0
+hot flash sleep problems,climara,1,8.0
+hot flashes,climara-pro,1,3.0
+hot flashes / night sweats,premarin,1,1.0
+"hot flashes, depression",prempro,1,10.0
+"hot flashes, headaches, fatigue, dry vagina",prempro,1,10.0
+"hot flashes, unable to sleep",innofem,1,7.0
+hot flashes/ over all feel better,vivelle-dot,1,7.0
+hrt,divigel,1,9.0
+hrt,premarin,1,10.0
+hrt (hormone replacement therapy),femring,1,10.0
+hrt hysterectomy,premarin,1,1.0
+hsv 2,acyclovir,1,7.0
+htn,vasotec,1,9.0
+"hyper pigmentation, wrinkles",avita,1,10.0
+hyperactive nerves and chronic small seizures,clonazepam,1,9.0
+hypercholesteremia,crestor,1,5.0
+hypercholesterolemia,crestor,1,10.0
+hypercholesterolemia w/ low ldl,niacor,1,10.0
+hyperlipidemia,lipitor,1,10.0
+hyperlipidemia,niaspan,1,10.0
+hyperpigmatation,claripel-cream,1,9.0
+hyperpigmentation,claripel-cream,1,1.0
+hyperpigmentation,renova,1,8.0
+hyperpigmentation,retin-a,1,7.0
+hyperpigmentation all over face,tri-luma,1,4.0
+"hyperpigmentation, light breakouts, fine lines",tazorac,1,5.0
+"hyperpigmentation, photoaging, mild hormonal acne",tazorac,1,8.0
+hypertension,accupril,1,9.0
+hypertension,atenolol,1,10.0
+hypertension,avapro,1,10.0
+hypertension,benicar,1,10.0
+hypertension,diovan,1,5.0
+hypertension,hydrochlorothiazide,1,9.0
+hypertension,hyzaar,1,8.0
+hypertension,inderal,1,1.0
+hypertension,micardis,1,9.0
+achilles tendonitis,celebrex,1,9.0
+vaginal yeast infection,diflucan,1,9.0
+hypertension,spironolactone,1,6.0
+hypertension,tarka,1,9.0
+hypertension,tekturna,1,10.0
+hypertension,tenormin,1,8.0
+hypertension,vasotec,1,10.0
+hypertension (high blood pressure),atacand,1,9.0
+hypertension/high blood pressure,benicar,1,8.0
+hypertention,plendil,1,9.0
+hyperthyroidism,methimazole,1,10.0
+hyperthyroidism,tapazole,1,7.0
+hypothroidism,levoxyl,1,9.0
+hypothroidism after radioactive iodine,synthroid,1,10.0
+hypothryoid-related dry skin,elidel,1,8.0
+hypothryroid,armour-thyroid,1,10.0
+hypothyriod,synthroid,1,1.0
+hypothyriod,tirosint,1,8.0
+hypothyriodism--hashimoto's thyroiditis,armour-thyroid,1,10.0
+hypothyroid,armour-thyroid,1,8.0
+hypothyroid,cytomel,1,10.0
+acne,aczone,1,8.0
+whiteheads,retin-a,1,8.0
+hypothyroid - hashimoto's disease,cytomel,1,8.0
+hypothyroid deficiency,synthroid,1,8.0
+hypothyroid problem,levoxyl,1,10.0
+white spots on facial skin,protopic,1,10.0
+acic reflux,nexium,1,1.0
+2 compressed discs in neck,tramadol,1,9.0
+20 year pack a day smoker,chantix,1,10.0
+abdominal pain,tramadol,1,9.0
+hypothyroidism,tirosint,1,1.0
+hypothyroidism after thyroidectomy,synthroid,1,3.0
+hypothyroidsm,tirosint,1,9.0
+hypthyroidism,synthroid,1,7.0
+hypthyroidsim,synthroid,1,10.0
+hysterectomy,femring,1,1.0
+vaginal yeast infection,flagyl,1,2.0
+hysterectomy,vivelle-dot,1,9.0
+hysterectomy/cessation of menses,vivelle-dot,1,10.0
+hysterectomy/menopause,estrace,1,5.0
+i got my toothpulled,vicodin,1,7.0
+i kept getting pregnant. no more stairs.... please,nuvaring,1,3.0
+i took seasonique just to prevent pregnancy,seasonique,1,5.0
+i was in a risk group - frontline pharmacist,tamiflu,1,1.0
+ibs,amitiza,1,9.0
+"ibs, panic attacks, depression",zoloft,1,7.0
+ibs/anxiety,remeron,1,8.0
+illiotibital tibital syndrom,diclofenac,1,7.0
+impetigo,panixine-disperdose,1,9.0
+"improvement of skin appearance, very very mild acn",avita,1,8.0
+improvement of skin appearance/health,retin-a,1,9.0
+inability to fall asleep,ativan,1,5.0
+inability to fall asleep easily,ambien,1,8.0
+inattention and disorganization,vyvanse,1,9.0
+incontinence,ditropan,1,8.0
+incontinence,lipitor,1,10.0
+increase dopmaine levels,selegiline,1,10.0
+increase follicle production prior to iui,gonal-f-rff,1,9.0
+vertigo,trimethobenzamide,1,9.0
+indoor allergies,claritin,1,9.0
+infected site of oreal surgery,amoxil,1,8.0
+infected throat and lung,doxycycline,1,6.0
+infection,cipro,1,1.0
+infection from grazing an ankle on coral,amoxil,1,10.0
+infection in mandible,cleocin,1,2.0
+infertility,follistim,1,10.0
+infertility,metformin,1,8.0
+inflamation at the femoral nerve,tramadol,1,3.0
+inflamation resulting from damage to knee during s,celebrex,1,6.0
+very high cholesterol and family history of heart,crestor,1,10.0
+inflammation of throat during bacteria bronchitis,prednisone,1,10.0
+inflammatory arthritis,sulfasalazine,1,8.0
+ingrown toenails,lamisil,1,10.0
+"initially, acne; later, anti-wrinkle",retin-a,1,8.0
+inner ear infection,biaxin,1,1.0
+insomia,desyrel,1,10.0
+insomina,lunesta,1,1.0
+insommnia,klonopin,1,1.0
+viral bronchitis,permapen,1,1.0
+wakefulness -- difficulty falling back asleep,sonata,1,10.0
+insomnia,baclofen,1,8.0
+insomnia,citalopram,1,9.0
+water in ear,zyrtec,1,8.0
+insomnia,doxepin,1,8.0
+insomnia,elavil,1,10.0
+insomnia,halcion,1,3.0
+insomnia,klonopin,1,9.0
+weight,adipex-p,1,8.0
+insomnia,remeron,1,10.0
+weight gain,synthroid,1,7.0
+weight loss,phendimetrazine,1,10.0
+insomnia,sonata,1,8.0
+insomnia,trazodone,1,10.0
+insomnia,xanax,1,8.0
+weight loss,topamax,1,9.0
+insomnia - early awakening,elavil,1,8.0
+insomnia and anxiety,clonazepam,1,8.0
+insomnia due to peri-menopause,neurontin,1,8.0
+"insomnia, and arthrtis",flexeril,1,9.0
+"insomnia, anxiety",lorazepam,1,10.0
+"insomnia, bipolar",seroquel,1,9.0
+"insomnia, chronic pain",ambien-cr,1,9.0
+"insomnia, headaches",desyrel,1,3.0
+"insomnia, migraines",elavil,1,4.0
+"insomnia, night sweats, hot flashes",climara-pro,1,10.0
+insomnia/difficulty sleeping,lunesta,1,7.0
+insulin dependent diabetes mellitus,lantus,1,9.0
+interstitial cystitis,elmiron,1,9.0
+irregular cycles,seasonale,1,8.0
+irregular menses,provera,1,9.0
+irregularity/no babies!,nuvaring,1,8.0
+"irritability,anxiety",zoloft,1,10.0
+irritable bowel syndrom,lotronex,1,9.0
+irritable bowel syndrome,hyoscyamine,1,9.0
+irritable bowel syndrome,miralax,1,8.0
+"irritated and sore throat,nose,eyes and sneezing.",claritin,1,8.0
+itching,zyrtec,1,10.0
+itching/psosiasis,atarax,1,10.0
+itchy and irritated skin,topicort,1,6.0
+"itchy, red, irritated skin",betamethasone,1,10.0
+jaw abscess,dispermox,1,8.0
+jaw/tooth pain,mobic,1,2.0
+joint pain,naproxen,1,1.0
+joint/muscular issues - fibro,nortriptyline,1,10.0
+juvenile idiopathic arthritis,naproxen,1,3.0
+juvenile rheumatoid arthritis,methotrexate,1,8.0
+kidney infection,amoxil,1,9.0
+kidney infection,cipro,1,9.0
+"kidney pain, difficult urination",flomax,1,8.0
+kidney stones,oxycontin,1,10.0
+klebsiella pneumonia infection,augmentin,1,6.0
+knee pain,celebrex,1,3.0
+knee pain,ultram,1,8.0
+knee pain/inflamation,diclofenac,1,2.0
+laryngopharyngeal reflux,zegerid,1,8.0
+ldl cholesterol,pravachol,1,10.0
+"leg blood clot, dvt",coumadin,1,1.0
+"lingering infection - ear, sinus, throat",zmax,1,10.0
+longer eyelashes,lumigan,1,8.0
+loose weight,adipex-p,1,4.0
+lose weight,adipex-p,1,5.0
+lose weight,wellbutrin-xl,1,1.0
+loss of bone density,evista,1,5.0
+loss of bone density in spine,fosamax,1,1.0
+loss of bone mass,actonel,1,6.0
+low back pain due to car accident,tramadol,1,7.0
+"low back pain, radiating to left leg",neurontin,1,6.0
+low back pain/herniated disk/sciatic pain,valium,1,10.0
+low energy,provigil,1,7.0
+low energy and depression,wellbutrin-xl,1,6.0
+low thyroid,levoxyl,1,9.0
+low thyroid,tirosint,1,10.0
+low thyroid levels,levoxyl,1,8.0
+low thyroid production,levoxyl,1,10.0
+low thyroid production,synthroid,1,10.0
+low under active thyroid,synthroid,1,10.0
+lower back pain,cataflam,1,10.0
+lower back pain and migraine,tramadol,1,5.0
+lower respiratory tract infection,clarithromycin,1,10.0
+lupus,imuran,1,7.0
+lupus-like systemic autoimmune condition,prednisolone,1,6.0
+m to f transformation,spironolactone,1,8.0
+maigrains,sumatriptan,1,10.0
+major chronic depressive disorder,emsam,1,9.0
+major clinical depression,adderall,1,9.0
+major depression,buprenorphine,1,10.0
+major depression,cymbalta,1,8.0
+major depression,effexor-xr,1,9.0
+major depression,lamotrigine,1,7.0
+major depression,lexapro,1,10.0
+major depression,prozac,1,10.0
+major depression/anxiety,lexapro,1,9.0
+major depressive disorder,wellbutrin-xl,1,7.0
+major depressive disorder/ anxiety,citalopram,1,8.0
+major sinus infection,biaxin,1,8.0
+malaria,aralen,1,1.0
+malaria prevention,malarone,1,9.0
+male andropause,androgel,1,10.0
+a little bit of osteoporosis in the hips,fosamax,1,8.0
+male pattern bladness,propecia,1,1.0
+male pattern hair loss,propecia,1,9.0
+management of congestive heart failure,enalapril,1,4.0
+mania,lithium-carbonate,1,8.0
+manic depression,lithium-carbonate,1,8.0
+mastitis,doxycycline,1,1.0
+melasma,claripel-cream,1,9.0
+melasma,renova,1,7.0
+acne,ampicillin,1,7.0
+"melasma, unevean skin tone, ocasionally pimples",retin-a,1,8.0
+memopause,premarin,1,3.0
+memory,aricept,1,4.0
+memory,exelon,1,10.0
+menapause,estrace,1,9.0
+menopausal,climara,1,10.0
+menopausal,vivelle-dot,1,10.0
+menopausal symptoms,estratest,1,10.0
+menopausal symptoms,prempro,1,2.0
+menopausal symptoms,prometrium,1,9.0
+menopausal symptoms,vivelle-dot,1,10.0
+"menopausal symptoms - hot flashes, sleep disturban",angeliq,1,9.0
+"menopausal symptoms, especially night sweats",prempro,1,6.0
+menopause,divigel,1,10.0
+menopause,estrace,1,10.0
+menopause,estrasorb,1,10.0
+menopause,femhrt,1,5.0
+menopause,femring,1,10.0
+menopause,premarin,1,1.0
+acne,benzaclin,1,8.0
+menopause,prometrium,1,10.0
+menopause - hrt,estratest,1,10.0
+"menopause for 2 years, first hormone pill taken",angeliq,1,7.0
+menopause problems,prempro,1,3.0
+menopause symptoms,effexor,1,7.0
+menopause symptoms,innofem,1,9.0
+"menopause symptoms such as hot flashes,sleeplessne",provera,1,8.0
+"menopause, memory loss, night sweats, low libido",climara,1,4.0
+menopause/hysterectomy,delestrogen,1,10.0
+menstrual cramping,motrin,1,8.0
+menstrual cramps,motrin,1,10.0
+menstrual cramps,ponstel,1,10.0
+menstrual cramps/heavey bleeding,motrin,1,6.0
+menstrual migraines,percocet,1,8.0
+metabolic disorder,metformin,1,9.0
+metabolic syndrome x,metformin,1,9.0
+metastasized ovarian cancer/chemotherapy,oxycodone,1,10.0
+microprolactinoma (benign pituitary tumour),dostinex,1,7.0
+migaine/tension headches,flexeril,1,8.0
+migrain,imitrex,1,10.0
+migraine,axert,1,10.0
+acne,cleocin,1,8.0
+acne,clindamycin-topical,1,9.0
+migraine,motrin,1,10.0
+migraine,norpramin,1,6.0
+migraine,relpax,1,8.0
+migraine,sumatriptan,1,9.0
+acne,erythra-derm,1,10.0
+acne,eulexin,1,10.0
+migraine + birth control,seasonique,1,4.0
+migraine headache,frova,1,8.0
+migraine headaches,fiorinal,1,10.0
+acne,evoclin,1,5.0
+migraine headaches,lotrel,1,8.0
+migraine headaches,pristiq,1,7.0
+acne,kenalog,1,2.0
+migraine headaches,topamax,1,10.0
+migraine in assoc /w upper resp infection,augmentin,1,7.0
+acne,ortho-tri-cyclen,1,3.0
+migraine relief,relpax,1,10.0
+migraines,amerge,1,8.0
+migraines,botox,1,10.0
+migraines,elavil,1,10.0
+acne,proloprim,1,9.0
+migraines,fiorinal,1,8.0
+acne,ziana,1,9.0
+migraines,lamotrigine,1,1.0
+acne - blackheads and acne scars,retin-a-micro,1,8.0
+migraines,neurontin,1,1.0
+migraines,nortriptyline,1,7.0
+migraines,prempro,1,10.0
+migraines,sumatriptan,1,9.0
+acne / blackheads / oily skin,ziana,1,3.0
+acne and anti age benefits,retin-a,1,10.0
+migraines-hormonal,zomig,1,9.0
+migraines/upper back pain,soma,1,1.0
+migranes,topamax,1,1.0
+mild acne,oracea,1,4.0
+"mild acne, white heads",differin,1,8.0
+mild arthritis in knees,diclofenac,1,9.0
+mild bursitis in left hip.,celebrex,1,1.0
+mild depression,sular,1,9.0
+mild depression and anxiety,prozac,1,5.0
+mild hypothyroidism,armour-thyroid,1,10.0
+mild hypothyroidism,tirosint,1,4.0
+mild local skin infection,panixine-disperdose,1,2.0
+mild sedative,lorazepam,1,8.0
+minor acne,retin-a,1,10.0
+minor insomnia,lunesta,1,7.0
+mitral valve prolapse,atenolol,1,10.0
+moderately severe acne,accutane,1,10.0
+molar extraction,vicodin,1,7.0
+mood,citalopram,1,1.0
+mood stabilization,lamictal,1,8.0
+mood stabilizer taken w/ prozac,seroquel,1,1.0
+mood stablizer for bipoler disorder,lamictal,1,5.0
+mood swings,lamictal,1,9.0
+"mood swings, felt by- polar",diazepam,1,5.0
+morning sickness/nausea,compazine,1,1.0
+mrsa,zyvox,1,9.0
+mrsa abcess,rifadin,1,8.0
+mrsa skin infection,septra,1,8.0
+mucus in stool,galzin,1,7.0
+mulitple sclerosis,copaxone,1,9.0
+multiple sclerosis,betaseron,1,8.0
+multiple sclerosis,copaxone,1,8.0
+multiple sclerosis,rebif,1,6.0
+muscle pain and stiffness due to fibromyalgia,baclofen,1,9.0
+muscle pain/spasms - legs,valium,1,9.0
+muscle relaxant - spinal disorder,diazepam,1,8.0
+muscle spasm,flexeril,1,9.0
+acne and birth control,nuvaring,1,7.0
+muscle spasms (upper back/neck),flexeril,1,8.0
+muscle stiffness,flexeril,1,7.0
+muscle strain,tylenol,1,9.0
+muscular pain - arm,diclofenac,1,9.0
+muslce inflammation,flexeril,1,9.0
+mycoplasma bronchitis,tussionex,1,8.0
+mytral valve prolapse,corgard,1,8.0
+narcalepsy,provigil,1,7.0
+acne and contraception,lo-ovral,1,9.0
+narcolepsy,ritalin,1,8.0
+narcolepsy,xyrem,1,9.0
+"narcolepsy, fibromyalgia",xyrem,1,9.0
+"narcolepsy, sleep apnea, bipolar disorder",provigil,1,10.0
+narcolepsy/cataplexy,xyrem,1,8.0
+acne and perioral dermatitis,doxycycline,1,8.0
+nasal allergy,flonase,1,8.0
+acne and sun damage,retin-a,1,8.0
+nasal polyps,prednisone,1,9.0
+nausea,metoclopramide,1,1.0
+nausea,phenergan,1,9.0
+nausea,prochlorperazine,1,2.0
+nausea,reglan,1,1.0
+acne and water retention,spironolactone,1,6.0
+nausea after eating,prilosec,1,8.0
+nausea/morning sicness/ongoing vomitting,zofran,1,9.0
+nausea/vomiting,zofran,1,9.0
+neck & arm muscle spasms,skelaxin,1,7.0
+neck and back pain,oxycodone-and-acetaminophen,1,7.0
+neck and back pain/ whiplash,mobic,1,3.0
+neck and hip pain,skelaxin,1,1.0
+neck pain,elavil,1,9.0
+neck pain,ultram,1,8.0
+neck pain from car accident whiplash,mobic,1,3.0
+neck/shoulder spasms,neurontin,1,10.0
+nerve and muscle pain,lidocaine,1,10.0
+"nerve condition, burning in legs and aching feet",neurontin,1,7.0
+nerve damage,neurontin,1,6.0
+nerve damage from brachial plexitus,cymbalta,1,8.0
+"nerve damage, 1 nerve near mouth during surgery",clonazepam,1,8.0
+nerve damage/ acdf surgery,naproxen,1,8.0
+nerve disorder,neurontin,1,6.0
+"nerve pain, fibromyalgia",topamax,1,8.0
+nerve painn,tramadol,1,10.0
+nerves,ativan,1,3.0
+nerves,lexapro,1,8.0
+"nerves, depression",zoloft,1,6.0
+neural pain,neurontin,1,10.0
+neuropathic pain,tegretol,1,1.0
+neuropathic pain aand fibromyalgia,lyrica,1,1.0
+neuropathic pain from botched surgery,neurontin,1,3.0
+neuropathy / anklosing spondylytis,lyrica,1,9.0
+neuropathy back pain,neurontin,1,1.0
+nicotine addiction,chantix,1,7.0
+no more period,lybrel,1,1.0
+nocturnal myoclonus (like restless leg syndrome),prinivil,1,10.0
+none,metformin,1,8.0
+not sleeping,ambien,1,1.0
+nummular eczema,locoid-lipocream,1,3.0
+o increase length and fullness of eyelashes,lumigan,1,10.0
+acne and wrinkles,retin-a,1,7.0
+acne cysts,retin-a-micro,1,7.0
+acne on my back,erythromycin,1,7.0
+obesity and diabetes,byetta,1,1.0
+obsessional thoughts ocd,fluvoxamine,1,10.0
+obsessive compulsive disorder,paxil-cr,1,9.0
+"obsessive compulsive disorder, panic disorder, gad",seroquel,1,10.0
+acne rosacea,doxycycline,1,2.0
+ocd,lexapro,1,10.0
+ocd,prozac,1,9.0
+"ocd, bipolor disease",fluvoxamine,1,10.0
+acne rosacea,finacea,1,7.0
+opiate dependence,methadone,1,10.0
+opiate/heroin addiction,suboxone,1,10.0
+opiod addiction,methadone,1,6.0
+opioid addiction,suboxone,1,10.0
+oral infection,vicoprofen,1,7.0
+oral infection and swelling,relafen,1,9.0
+acne rosacea,metrogel,1,10.0
+originally brain lesions then lower cholesterol,mevacor,1,2.0
+"originally depression, later for chronic pain",nortriptyline,1,8.0
+originally sleep apnea,nuvigil,1,10.0
+osteo arthritis,voltaren,1,10.0
+osteoarthritis,voltaren,1,8.0
+"osteochondral injury of the talus, left ankle",tramadol,1,1.0
+osteopenia,actonel,1,7.0
+acne with cystic fibrosis genetic condition,doxycycline,1,8.0
+osteopenia,evista,1,1.0
+osteopenia,fosamax,1,10.0
+osteopenia and osteoporosis,fosamax,1,2.0
+"acne, anti-aging",retin-a,1,8.0
+osteoporosis,boniva,1,1.0
+osteoporosis,evista,1,3.0
+"acne, melasma",tri-luma,1,8.0
+osteoporosis,fosamax-plus-d,1,10.0
+osteoporosis/bone stength,evista,1,2.0
+osteoporsis,fosamax,1,9.0
+osteroporosis,fosamax,1,5.0
+ostheoporosis prevention,evista,1,9.0
+ovarian cyst,danazol,1,7.0
+ovarian cysts/sciatic nerve,ultram,1,2.0
+over weight,adipex-p,1,7.0
+"acne, photoaging",tazorac,1,9.0
+over weight,xenical,1,3.0
+"acne, wrinkles",renova,1,4.0
+overactive bladder,sanctura-xr,1,10.0
+"overeating, weight gain",meridia,1,10.0
+acne/anti-agin,tazorac,1,9.0
+overweight,meridia,1,8.0
+"overweight, self confidence",adipex-p,1,9.0
+pain,celebrex,1,8.0
+pain,darvocet-n,1,6.0
+pain,lodine,1,1.0
+pain,lortab,1,9.0
+pain,lyrica,1,7.0
+acne/oily skin,accutane,1,2.0
+pain,percocet,1,10.0
+pain,relafen,1,5.0
+pain,tramadol,1,9.0
+pain,tylenol,1,3.0
+acne/wrinkles,retin-a,1,8.0
+pain - chronic panceatitis,oxycodone,1,8.0
+pain after dental surgery,toradol,1,8.0
+pain after foot surgery,dilaudid,1,2.0
+pain after surgery,darvocet-n,1,8.0
+pain after surgery,oxycontin,1,2.0
+pain after surgery,vicodin,1,10.0
+pain and depression,cymbalta,1,10.0
+pain control,oxycontin,1,7.0
+pain from broken arm,vicodin,1,7.0
+pain from pinched nerve,mobic,1,8.0
+pain management,oxycodone,1,3.0
+pain management,vicodin,1,5.0
+pain relief (glenohumeral instability correction),tramadol,1,3.0
+pain relief - toothache,vicodin,1,10.0
+pain relief after surgery,toradol,1,3.0
+pain relief for arthritis and sleep aid,neurontin,1,10.0
+pain relief from an infected cat bite wound,ultram-er,1,1.0
+"pain, muscle strain",ketorolac,1,7.0
+pain/arthritis,mobic,1,1.0
+pain/headaches,percocet,1,6.0
+painkiller after surgery,meperidine,1,8.0
+palpitations,bisoprolol,1,10.0
+pancreatitis,percocet,1,9.0
+panic attack and anxiety,paxil,1,4.0
+panic attacks,lexapro,1,10.0
+panic attacks,lorazepam,1,9.0
+panic attacks,propranolol,1,6.0
+panic attacks,tofranil-pm,1,9.0
+acne/wrinkles,retin-a-micro,1,10.0
+panic attacks,zoloft,1,9.0
+panic attacks and depression,effexor,1,9.0
+panic attacks and depression,lexapro,1,8.0
+"panic attacks, depression",paxil,1,10.0
+panic attacks/feeling low,nortriptyline,1,3.0
+panic disorder,alprazolam,1,10.0
+actinic keratoses,carac,1,7.0
+active chronic gastritis,nexium,1,5.0
+acute and long term chronic and severe back pain,oxycontin,1,10.0
+"panic disorder, agoraphobia",alprazolam,1,10.0
+"papillary, follicular, tall-cell variant cancer",synthroid,1,3.0
+parkinson's,mirapex,1,1.0
+pcos,glucophage,1,8.0
+acute peptic ulcer,nexium,1,8.0
+pcos,spironolactone,1,8.0
+peanut allergy,benadryl,1,7.0
+pentasa,pentasa,1,7.0
+peptic ulcer,protonix,1,9.0
+perennial rhinitis,nasacort,1,8.0
+perenniel rhinitis,nasacort,1,9.0
+perepheral neuropathy,neurontin,1,4.0
+performance anxiety / social anxiety,propranolol,1,9.0
+peri-menopausal syptoms,lexapro,1,6.0
+periferal neuropathy,lyrica,1,7.0
+perimenopause,climara,1,10.0
+perimenopause symptoms,prometrium,1,4.0
+period cramps,naproxen,1,10.0
+periodontal disease,periogard,1,2.0
+periodontal surgery,vicodin,1,7.0
+perioral dermamtitis,metrolotion,1,9.0
+acute sinusitis,levaquin,1,2.0
+perioral dermatitis,oracea,1,10.0
+peripheral neuropathy,cymbalta,1,10.0
+persistant migraines,zomig,1,9.0
+persistent chest infection symptoms,amoxil,1,1.0
+phneumonia,augmentin,1,8.0
+photoaging,retin-a-micro,1,9.0
+pigmentatation,avita,1,8.0
+acute sinusitis/bronchitis,levaquin,1,1.0
+pinched nerve from bulging disc & disseminated pai,diclofenac,1,6.0
+pinched nerves,lyrica,1,9.0
+pink eye,tobramycin,1,9.0
+plantar faciatis,mobic,1,8.0
+plugged up nose related to seasonal allergies,flonase,1,8.0
+pmd,zoloft,1,9.0
+pms,prozac,1,1.0
+pms,zoloft,1,9.0
+pneumonia,biaxin,1,8.0
+pneumonia,cipro,1,8.0
+pneumonia,doxycycline,1,10.0
+add,adderall-xr,1,8.0
+pneumonia,proquin-xr,1,3.0
+pneumonia with associated cough,prednisone,1,3.0
+"pocs, elevated testosterone, hirsutism",spironolactone,1,3.0
+poison ivy,allegra,1,10.0
+polinoidal cyst,keflex,1,7.0
+"pollen, dust, mold and tree allergies",zyrtec-d,1,7.0
+polycystic ovarian syndrome,metformin,1,8.0
+polycystic ovary syndrome,glucophage-xr,1,7.0
+polymyalgia,prednisone,1,9.0
+poor sleep quality,desyrel,1,9.0
+poor sleep with frequent wakefulness,lunesta,1,9.0
+possible add,adderall,1,6.0
+possible arthritis,vioxx,1,3.0
+possible lymphoma/kidney pain,oxycodone,1,7.0
+possible osteoporosis,fosamax,1,1.0
+possible pertusis,erythromycin,1,3.0
+possible ulcer and acid reflux,protonix,1,9.0
+possible uti,cipro,1,1.0
+post -surgery,vicodin,1,9.0
+post breast cancer,arimidex,1,9.0
+post cosmetic surgery complications,ultram,1,10.0
+post hemorrhoidectomy,vicodin,1,3.0
+post herpatic neuralga,neurontin,1,2.0
+post menapause symptoms,premarin,1,10.0
+post menopausal /hysterectomy,premarin,1,10.0
+post menopause,estring,1,8.0
+post operative antibiotic,keflex,1,10.0
+post partum anxiety/ depression,zoloft,1,5.0
+post shoulder surgery pain,celebrex,1,9.0
+post surgery,oxycodone,1,5.0
+post surgery,ultracet,1,6.0
+post surgery antibiotic,keflex,1,10.0
+post surgery extreme pain,morphine,1,10.0
+post surgery stomach pain,vicodin,1,10.0
+post surgical pain,oxycontin,1,7.0
+post traumatic stress syndrom,topamax,1,8.0
+post-menopausal osteopenia,actonel,1,10.0
+post-surgical pain,oxycodone,1,7.0
+post-surgical pain,oxycontin,1,4.0
+post-surgical pain,tramadol,1,10.0
+postmenopausal vaginal atrophy,vagifem,1,8.0
+pre cancer cells,carac,1,10.0
+pre-barrett (errosion of the esophagus),prevacid,1,8.0
+pre-surgery,keflex,1,4.0
+pregnancy prevention,alesse,1,7.0
+pregnancy prevention,depo-provera,1,10.0
+pregnancy prevention,nuvaring,1,5.0
+pregnancy prevention,ortho-tri-cyclen,1,9.0
+pregnancy prevention,ortho-tri-cyclen-lo,1,7.0
+pregnancy prevention,seasonique,1,7.0
+"pregnancy prevention, cycle regulation",nuvaring,1,9.0
+"prevent aging, improve skin",renova,1,5.0
+prevent menstral migranes,seasonique,1,9.0
+prevent osteoporose,actonel,1,1.0
+prevent pregnancy,nuvaring,1,9.0
+prevent pregnancy,ortho-tri-cyclen,1,7.0
+preventing malaria,malarone,1,2.0
+preventing osteoporosis,boniva,1,3.0
+preventing pregnancy,seasonique,1,4.0
+prevention of pcp pneumonia while on chemo,septra,1,5.0
+prevention of pregnancy/lighter periods,seasonique,1,8.0
+primary dysmenorrhea,voltaren,1,3.0
+primary hypersomnia,provigil,1,10.0
+problem staying asleep,trazodone,1,10.0
+problems with my prostate,cardura,1,8.0
+progesterone balance,aygestin,1,9.0
+prolactinoma,dostinex,1,10.0
+prophylaxis after oral surgery,clindamycin,1,3.0
+prostate procedure,cipro,1,1.0
+prostatitis,noroxin,1,1.0
+prostatitis (chronically),motrin,1,7.0
+psoriasis,dovonex,1,6.0
+add,amphetamine,1,9.0
+add,dexedrine,1,2.0
+psoriatic arthritis,enbrel,1,9.0
+psoriatic arthritis,parlodel,1,7.0
+psoriatic arthritis,remicade,1,10.0
+psoriatic arthritis,sulfasalazine,1,10.0
+psychosis,risperdal,1,1.0
+psychosomatic disorder,alprazolam,1,8.0
+psychotic out nof control patient,haldol,1,10.0
+psychotic symptoms,risperdal-consta,1,9.0
+ptsd,lamictal,1,10.0
+"ptsd, anxiety, depprssion, obsessive remembering",paxil,1,7.0
+"ptsd, bi-polar, anxiety",seroquel,1,6.0
+ptsd/insomnia,lunesta,1,10.0
+puncture wound,cipro,1,1.0
+qit smoking,chantix,1,10.0
+add,dextroamphetamine,1,8.0
+add,dextrostat,1,10.0
+r.a.,plavix,1,10.0
+r/a,prednisolone,1,1.0
+ra,enbrel,1,1.0
+ra,humira,1,9.0
+ra,methotrexate,1,6.0
+"ra, sj�gren syndrome",humira,1,5.0
+radical hysterectomy,premarin,1,10.0
+rapid cycling bi polar,citalopram,1,10.0
+rare kidney infection,cipro,1,10.0
+rash,fluconazole,1,8.0
+rash,ranitidine,1,5.0
+rash on neck that spread to face,prednisone,1,8.0
+rashes,elidel,1,8.0
+raynaud's disease,norvasc,1,5.0
+razor bumps,tetracycline,1,10.0
+receding hairline,propecia,1,1.0
+recovery from a brainstem stroke,paxil,1,2.0
+recurrent colds,acyclovir,1,10.0
+recurrent depression,effexor,1,10.0
+recurring cold sores,valtrex,1,10.0
+red spot on the cheek,carac,1,6.0
+redness,differin,1,8.0
+redness from rosacea flushing,metrogel,1,1.0
+reduce cholesterol,lipitor,1,10.0
+reduce cholesterol,niaspan,1,9.0
+reflux,zegerid,1,6.0
+"reflux, gastritis",zantac,1,1.0
+refractory depression,vyvanse,1,9.0
+regulate periods,ortho-tri-cyclen,1,5.0
+"relapsing remitting ms, possible neuro sarcoidosis",prednisone,1,10.0
+relapsing/remitting multiple sclerosis,copaxone,1,9.0
+repair and prevent wrinkles,retin-a-micro,1,9.0
+replacement of femoral vein in leg,plavix,1,7.0
+replacement thearpy,estrace,1,10.0
+respiratory infection,tussionex,1,8.0
+restless leg sydrome,requip,1,10.0
+add,provigil,1,9.0
+restless leg syndrome,neurontin,1,8.0
+add,ritalin,1,8.0
+restless legs,requip,1,10.0
+restless legs syndrome,mirapex,1,10.0
+restless sleep,ambien,1,7.0
+restless sleep,flexeril,1,7.0
+restlessness,ambien,1,10.0
+reverse the insomnia medication,lamictal,1,10.0
+rhematory arthritis,methotrexate,1,7.0
+rheumatiod arthritis,enbrel,1,10.0
+rheumatoi arthritis,humira,1,10.0
+rheumatoid arthritis,arava,1,9.0
+add,wellbutrin-sr,1,10.0
+add & anxiety,pristiq,1,10.0
+add - mild depression,concerta,1,3.0
+rheumatoid arthritis,motrin,1,9.0
+rheumatoid arthritis,naprosyn,1,6.0
+rheumatoid arthritis,ultram,1,10.0
+"rheumatoid arthritis joint pain, fibromyalgia",duragesic,1,6.0
+rhinitis,nasarel,1,10.0
+rhuematoid arthritis,naproxen,1,1.0
+rhuematoid arthritis,remicade,1,4.0
+rhumitoid arthritis,methotrexate,1,9.0
+rhytids,avita,1,7.0
+rib pain and muscle inflammation,tramadol,1,4.0
+right temporal lobe epilepsy,levetiracetam,1,3.0
+ringworm/pityriasis,ketoconazole,1,8.0
+rls,requip,1,10.0
+add and depression,dextroamphetamine,1,9.0
+"add inattentive, delayed sleep phase syndrome",provigil,1,7.0
+addh,concerta,1,8.0
+adhd,dexedrine,1,8.0
+rosacea,periostat,1,8.0
+rosacea,solodyn,1,7.0
+adhd,ritalin,1,8.0
+rosacea/ acne,minocycline,1,7.0
+roseasa,metrogel,1,8.0
+rosecea,metrogel,1,6.0
+rosecea on the face,metrogel,1,7.0
+rotator cuff tear,mobic,1,10.0
+running nose,flonase,1,9.0
+runny nose/ allergies,flonase,1,7.0
+s/p thyroidectomy,synthroid,1,7.0
+sadd,wellbutrin-xl,1,2.0
+scar revision,aldara,1,6.0
+scar revision surgery,aldara,1,6.0
+schizo-affective disorder,seroquel,1,10.0
+schizoaffective disorder,zyprexa,1,10.0
+schizophrenia,risperdal,1,1.0
+schizophrenia,zyprexa,1,3.0
+sciatica,relafen,1,5.0
+sciatica and low back pain,valium,1,9.0
+sciatica pain/bulging discs,naproxen,1,10.0
+scoliosis,oxycodone,1,9.0
+adhd,ritalin-la,1,8.0
+adhd,wellbutrin-sr,1,8.0
+seasonal allergies,flonase,1,9.0
+seasonal allergy,fexofenadine,1,8.0
+sedative/hypnotic - to induce sleep,topamax,1,5.0
+seizure disorder,depakote,1,4.0
+seizure disorder,keppra,1,8.0
+adhd (attention deficit hyperactive disorder),vyvanse,1,6.0
+"seizure, hbp, cholesterol",prinivil,1,9.0
+seizure-1st and only at age 41,lamotrigine,1,8.0
+seizure/migraine,topamax,1,5.0
+adhd (predominantly inattentive),strattera,1,7.0
+seizures,tegretol,1,1.0
+"seizures,migraines,fibro.",topamax,1,6.0
+serious acne,sotret,1,9.0
+"serious food poisoning, uti",cipro,1,10.0
+"serotonin imbalance, mood swings",prozac,1,10.0
+"sever back pain,",lortab,1,7.0
+sever depression,cymbalta,1,9.0
+sever muscle spasms lower back,flexeril,1,8.0
+severe acne,accutane,1,10.0
+severe acne,minocycline,1,8.0
+severe allergies,allegra,1,10.0
+severe allergies,zyrtec,1,8.0
+severe and chronic back pain,oxycontin,1,8.0
+severe anxiety,prozac,1,1.0
+severe chronic pain,duragesic,1,7.0
+severe cold sores,zovirax,1,8.0
+severe depression,effexor,1,2.0
+severe depression,nortriptyline,1,9.0
+severe depression,sarafem,1,8.0
+severe dry eyes,restasis,1,8.0
+severe headache,motrin,1,9.0
+severe headaches,topamax,1,1.0
+severe heartburn,prevacid,1,7.0
+severe hives angiodema,prednisone,1,5.0
+severe hot flashes and night sweats,prempro,1,1.0
+severe indigestion diagnosed as possible ulcer,prilosec,1,9.0
+severe insomnia,lunesta,1,1.0
+severe insomnia,seroquel,1,9.0
+severe knee pain,voltaren,1,10.0
+severe low back pain that went down right leg.,lortab,1,8.0
+severe menstrual cramps,ponstel,1,10.0
+severe migraine,sumatriptan,1,10.0
+severe neck pain lasting 8-9 mons,neurontin,1,1.0
+severe non-allergic bronchitis and cough,singulair,1,10.0
+severe pain,tramadol,1,1.0
+severe pain in right hip from suspected tear in ca,tramadol,1,3.0
+severe performance anxiety,inderal,1,9.0
+severe peridontal disease,doxycycline,1,10.0
+severe poison ivy all over face,deltasone,1,10.0
+severe recurrent sinus infections,prednisone,1,3.0
+severe sinus infection,biaxin,1,10.0
+severe sinus infection and double ear infections,biaxin,1,7.0
+"severe stomach pains, dizziness",progesterone,1,10.0
+severe ulcerative colitis,remicade,1,5.0
+severe upper respitory tract infection,keflex,1,1.0
+"sggression, hyperactivity",vyvanse,1,4.0
+shift disorder,provigil,1,10.0
+shift work insomnia,provigil,1,1.0
+shift work sleep disorder,nuvigil,1,6.0
+shift work sleep disorder,provigil,1,9.0
+"adhd, depression/anxiety",adderall,1,6.0
+shingles,zovirax-topical,1,7.0
+shingles pain,tramadol,1,1.0
+shooting nerve-type pain in legs/fibromyalgia,nortriptyline,1,7.0
+short term memory loss,aricept,1,1.0
+"shortness of breath, itching all over",keflex,1,1.0
+shoulder pain,naproxen,1,3.0
+shoulder pain,percocet,1,7.0
+shoulder pain,tramadol,1,1.0
+simple laceration,baciim,1,5.0
+simple partial seizure,keppra,1,10.0
+sinus allergies/infection,flonase,1,9.0
+sinus allergy,flonase,1,8.0
+sinus congestion / allergies,flonase,1,9.0
+sinus inection,avelox,1,1.0
+"adhd, inattentive type",ritalin,1,6.0
+"adrenal burnout, chronic fatigue & premature agin",saizen,1,8.0
+adult acne,aldactone,1,10.0
+adult acne,doryx,1,9.0
+sinus infection,doxycycline,1,3.0
+sinus infection,erythromycin,1,6.0
+adult acne,minocycline,1,7.0
+sinus infection,omnicef,1,1.0
+sinus infection,panixine-disperdose,1,9.0
+sinus infection,zithromax,1,10.0
+sinus infection,zmax,1,5.0
+sinus infection with smelly nasal discharge,biaxin,1,10.0
+"sinus infection, bronchitis",biaxin,1,10.0
+sinus infections,levaquin,1,8.0
+sinus infections/constant mucus & post nasal drip,zyrtec,1,3.0
+sinus polyps,nasonex,1,6.0
+sinus problems,nasonex,1,10.0
+sinus/ lung infection from a cold,zmax,1,9.0
+adult acne,renova,1,7.0
+sinusitis,augmentin,1,4.0
+sinusitis,nasacort-aq,1,10.0
+sinusitis,nasonex,1,8.0
+sinusitis,omnicef,1,2.0
+sinusitis,zithromax,1,8.0
+sinusitis,zyrtec,1,3.0
+"sinusitis,quinsy",augmentin,1,7.0
+sinusitus/ double ear infection,clindamycin,1,3.0
+adult acne,retin-a-micro,1,10.0
+situational atypical depression,cymbalta,1,10.0
+sjogren's syndrome,restasis,1,6.0
+skin,ecotrin,1,8.0
+skin acne,tetracycline,1,5.0
+"skin agind, sun damage",retin-a,1,8.0
+skin aging,retin-a,1,10.0
+skin aging/sun damage,avita,1,9.0
+skin allergy,clobetasol,1,7.0
+skin allergy,zyrtec,1,6.0
+skin cancer,aldara,1,4.0
+skin cancers,efudex,1,10.0
+skin correction,retin-a,1,8.0
+skin damage,retin-a,1,8.0
+skin exema,triamcinolone,1,10.0
+skin infection,cipro,1,1.0
+adult acne/wrinkles,tazorac,1,6.0
+"skin probles - acne, balckheads",duac,1,3.0
+adult add,adderall-xr,1,10.0
+skin spots,tri-luma,1,3.0
+skin warts on elbow,zovirax,1,10.0
+skin wound/infection,keflex,1,1.0
+"sle (lupus), rheumatoid arthritis",prednisolone,1,10.0
+adult add,concerta,1,9.0
+sleep,diazepam,1,5.0
+sleep,elavil,1,9.0
+sleep aid,seroquel,1,4.0
+sleep deprivation,ambien,1,4.0
+sleep disorder,neurontin,1,9.0
+sleep disorder/anxiety,ativan,1,9.0
+sleep disruption due to hotflashes at night,catapres,1,7.0
+sleep problem,ativan,1,2.0
+sleep problems,lorazepam,1,9.0
+sleep walking/talking,clonazepam,1,8.0
+sleepiness,prozac,1,3.0
+sleeping aid,xanax,1,8.0
+sleeping disorder,diazepam,1,8.0
+sleeping problems,lunesta,1,9.0
+adult add,ritalin,1,10.0
+sleeplessness,lunesta,1,1.0
+sleeplessness,restoril,1,7.0
+sleeplessness and restless mind at night,seroquel,1,6.0
+slight loss of calcium in hip area,evista,1,9.0
+adult add,vyvanse,1,10.0
+adult adhd,strattera,1,5.0
+smoking ceasation,chantix,1,8.0
+adult moderate hormone related acne,spironolactone,1,7.0
+smoking cessation,wellbutrin,1,10.0
+adult onset acne,tazorac,1,10.0
+"after 42 years, quit smoking",chantix,1,10.0
+sore heel and arthritis,mobic,1,10.0
+sore lower back,voltaren,1,9.0
+sore throat ear infections,omnicef,1,1.0
+sore throat/dryness,protonix,1,9.0
+after an angiogram,plavix,1,7.0
+sparse thin eyelashes,lumigan,1,8.0
+spastic bladder,oxybutynin,1,9.0
+spinal injury,neurontin,1,9.0
+spinal nerve compression pain,lyrica,1,5.0
+sprained ankle,motrin,1,8.0
+staph infection,clindamycin,1,7.0
+staphf infection,clindamycin,1,1.0
+std,zmax,1,7.0
+std clamydia,doxycycline,1,5.0
+stomach pain,prevacid,1,10.0
+stomach ulcer,nexium,1,3.0
+stomach ulcers,prevacid,1,10.0
+stomach/digestive disorder,amitiza,1,3.0
+after birth thyroid not working to mormal levelc,synthroid,1,1.0
+stop smoking,wellbutrin,1,3.0
+stop smoking,zyban,1,4.0
+stop smoking aid,chantix,1,5.0
+stopping smoking,chantix,1,8.0
+strep throat,amoxil,1,9.0
+age spots on hand,tazorac,1,9.0
+strep throat,clarithromycin,1,1.0
+aging,botox,1,10.0
+strep throat,penicillin-v,1,9.0
+strep throat,zithromax,1,8.0
+strep throat,zmax,1,1.0
+stress,diazepam,1,10.0
+"stress, feeling overwhelmed",celexa,1,10.0
+stress-related anxiety,pristiq,1,2.0
+stressfull live change,lexapro,1,8.0
+strokes,plavix,1,7.0
+subungal hematoma,augmentin,1,10.0
+sudden sensorineural hearing loss,prednisone,1,7.0
+suicidal feelings,citalopram,1,1.0
+aging,premarin,1,9.0
+sun damage & fine lines,renova,1,6.0
+sun damage removal,efudex,1,8.0
+sun damage to face,retin-a-micro,1,10.0
+sun damage to skin,retin-a,1,8.0
+superfacial basal cell carcinoma,aldara,1,7.0
+supra ventricular tachycardia,atenolol,1,9.0
+surgery recovery,vicodin,1,4.0
+surgical menopause,climara,1,10.0
+surgical menopause,estrace,1,9.0
+surgical menopause,vivelle-dot,1,5.0
+aging,renova,1,2.0
+swine flu like illness in a pandemic,tamiflu,1,9.0
+swollen knee,aldactone,1,10.0
+swollen passages from allergies,nasonex,1,1.0
+symptoms of menopause,premarin,1,10.0
+systemic fungus,fluconazole,1,1.0
+tachacarrdia rapid heartbeat,metoprolol,1,9.0
+tachycardia,metoprolol,1,10.0
+tachycardia,tambocor,1,8.0
+tachycardia,tenormin,1,10.0
+teeth extractions,oxycodone,1,9.0
+temporary anxiety,oxazepam,1,1.0
+tempromandibular joint dysfunction (tmj),ultram,1,9.0
+tendinatis,prednisolone,1,1.0
+tennis elbow,voltaren,1,10.0
+tension and anxiety,xanax,1,10.0
+tension headaches,elavil,1,9.0
+tension headaches,fiorinal,1,5.0
+tension in jaw and bruxism (grinding of teeth),flexeril,1,8.0
+thinning hair,armour-thyroid,1,8.0
+aging,retin-a,1,5.0
+throat infection,amoxil,1,7.0
+throat infection,cipro,1,1.0
+throat infection,clindamycin,1,3.0
+throat infection,zithromax,1,4.0
+thyroid,levothroid,1,10.0
+thyroid,levoxyl,1,10.0
+thyroid disease,levoxyl,1,9.0
+aging skin,avita,1,6.0
+thyroid removal,synthroid,1,6.0
+thyroid/total thyroidectomy due to cancer,tirosint,1,4.0
+"tia type seizures, stress",klonopin,1,1.0
+tia's - anxiety,xanax,1,10.0
+tinea barbae,grifulvin-v,1,5.0
+tinnitus,alprazolam,1,8.0
+tiredness,synthroid,1,9.0
+to achieve a smoother skin surface,avage,1,8.0
+to help me sleep after having a rapid heartbeat ep,xanax,1,5.0
+to help quit smoking cigarettes,chantix,1,10.0
+to help sleep,ambien-cr,1,9.0
+to lose 30 pounds,adipex-p,1,10.0
+to quit smoking,zyban,1,2.0
+to reduce/eliminate wrinkling,retin-a-micro,1,7.0
+to relax muscles,diazepam,1,3.0
+to stop smoking,zyban,1,2.0
+toe nail fungus,penlac,1,1.0
+aging skin,renova,1,9.0
+tonic clonic seizures,depakene,1,6.0
+tonsilitis,amoxil,1,5.0
+tonsilitis,augmentin,1,3.0
+tonsillitis/strep throat,dispermox,1,3.0
+tooth abscess,flagyl,1,5.0
+tooth abscess,metronidazole,1,10.0
+tooth infection,amoxil,1,2.0
+tooth infection,keflex,1,1.0
+tooth infection,permapen,1,10.0
+tooth infection,ultracet,1,1.0
+"tooth pain, root canal procedure",voltaren,1,3.0
+total hist,vivelle,1,6.0
+total hysterctomy,climara,1,2.0
+total hysterectomy,delestrogen,1,10.0
+tourette syndrome,topamax,1,10.0
+traumatic brain injury,zoloft,1,7.0
+treatment of acne,minocycline,1,6.0
+trigeminal neuralgia plus spinal stenosis etc,neurontin,1,10.0
+trochanteric bursitis,betamethasone,1,2.0
+trouble sleeping,lunesta,1,1.0
+"trouble sleeping at night, tired during day",xyrem,1,3.0
+tsh level was low no clinical symtoms,tirosint,1,5.0
+tuberculosis,isoniazid,1,7.0
+type 2 diabetes,byetta,1,8.0
+type 2 diabetes,metformin,1,10.0
+type ii diabetes mellitus,byetta,1,10.0
+u/i,proquin-xr,1,1.0
+ulcer,zantac,1,5.0
+ulcerative cholitis,asacol,1,7.0
+aging skin,retin-a,1,7.0
+ulcerative colitis,azasan,1,9.0
+ulcerative colitis,pentasa,1,10.0
+ulcerative colitis,prednisone,1,8.0
+ulcerative colitis,remicade,1,10.0
+ulcerative colitis,sulfasalazine,1,10.0
+ulcers that caused throwing up,reglan,1,1.0
+unable to sleep because of pain,ativan,1,5.0
+under active thyroid,synthroid,1,1.0
+"aging skin, few break-outs, hyperpigmentation",renova,1,10.0
+undiagnosed,protopic,1,1.0
+"unrestful sleep, narcolepsy?",xyrem,1,2.0
+unusual periods,prempro,1,9.0
+upper back / left shoulder and neck pain,flexeril,1,6.0
+upper respiratory infection on vacation,ceclor,1,1.0
+urge incontinence and bladder spasm,vesicare,1,9.0
+urgency to urinate,detrol,1,2.0
+"aging skin, wrinkles, sag",renova,1,3.0
+aging wrinkles,avita,1,6.0
+urinary tract infection,septra,1,4.0
+urinary tract infrection,proquin-xr,1,10.0
+uterine fibroids/heavy bleeding,lupron,1,9.0
+agitation management r/t lewy body syndrome demen,zyprexa,1,3.0
+uti,fortaz,1,8.0
+"agoraphobia, panic disorder",clonazepam,1,5.0
+uti,nitrofurantoin,1,5.0
+uti,tequin,1,1.0
+uti prevention,nitrofurantoin,1,10.0
+"uveitis, inflmmatory arhtiritis in hands",methotrexate,1,7.0
+vaginal bacteria,cleocin,1,1.0
+vaginal dryness,estrace,1,10.0
+vaginal dryness,premarin,1,8.0
+vaginal dryness,premarin-vaginal,1,9.0
+vaginal dryness and urinary tract infections,vagifem,1,1.0
+"vaginal dryness, menopausal symptoms",vagifem,1,9.0
+"vaginal dryness, night sweats",divigel,1,10.0
+vaginal dryness/bladder inflamation-irritations,premarin-vaginal,1,10.0
+vaginal eczema,protopic,1,1.0
+a boil,amoxil,1,8.0
+wilson diseaes,galzin,1,3.0
+airplane flight anxiety,diazepam,1,8.0
+alcohol abuse,lorazepam,1,10.0
+wrinkles,botox,1,10.0
+wrinkles,dysport,1,7.0
+alcohol addiction,baclofen,1,9.0
+wrinkles,retin-a,1,6.0
+wrinkles,retin-a-micro,1,10.0
+wrinkles around eyes,differin,1,5.0
+"wrinkles, furrows",botox,1,8.0
+year round allergies,zyrtec,1,6.0
+yeast,lamisil,1,5.0
+yeast diaper rash,nystatin,1,8.0
+alergies,flonase,1,10.0
+abcessed tooth,dispermox,1,1.0
+a typical migraines,nortriptyline,1,3.0
+acid reflex,prevacid,1,5.0
+alergy,claritin,1,5.0
+all over and various type pain,neurontin,1,1.0
+allegry,claritin,1,5.0
+allergic rash,zyrtec,1,9.0
+allergic reaction,benadryl,1,7.0
+acid reflux,ranitidine,1,8.0
+allergic reaction on face to a cosmetic,prednisone,1,1.0
+allergic rhinitis,fexofenadine,1,2.0
+"acid reflux, gerd",nexium,1,1.0
+"acid reflux, gerd",zegerid,1,1.0
+acid reflux/chronic bronchitis,nexium,1,8.0
+acl reconstruction,tramadol,1,6.0
+allergic rhinitis,nasonex,1,9.0
+ac joint dislocation,naproxen,1,10.0

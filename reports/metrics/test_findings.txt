@@ -1,0 +1,53 @@
+HELD-OUT TEST EVALUATION
+
+Models were selected using training cross-validation.
+No model fitting or selection was performed in this script.
+
+TASK: SENTIMENT
+Selected model: Logistic Regression
+Eligible test reviews: 1036
+Accuracy: 0.7481
+Macro-F1: 0.5655
+Weighted-F1: 0.7250
+Empty inputs excluded: 0
+Test rows matching training text: 0
+Rows containing repeated test text: 7
+Test rows without training-text matches: 1036
+Macro-F1 on that subset: 0.5655
+
+TASK: EFFECTIVENESS
+Selected model: Logistic Regression
+Eligible test reviews: 1036
+Accuracy: 0.4691
+Macro-F1: 0.4093
+Weighted-F1: 0.4603
+Empty inputs excluded: 0
+Test rows matching training text: 0
+Rows containing repeated test text: 7
+Test rows without training-text matches: 1036
+Macro-F1 on that subset: 0.4093
+
+TASK: SEVERITY
+Selected model: Logistic Regression
+Eligible test reviews: 1036
+Accuracy: 0.5232
+Macro-F1: 0.4779
+Weighted-F1: 0.5237
+Empty inputs excluded: 0
+Test rows matching training text: 1
+Rows containing repeated test text: 7
+Test rows without training-text matches: 1035
+Macro-F1 on that subset: 0.4783
+
+INTERPRETATION
+Accuracy is the fraction of correctly classified reviews.
+Macro-F1 gives equal importance to every configured category.
+Weighted-F1 weights category scores by their test support.
+Missing-category support should be checked in the reports.
+The unseen-text subset is a diagnostic with a different sample composition, not a new independently collected test set.
+Exact text checks do not detect all near-duplicate reviews.
+Repeated test text can reduce the independence of observations.
+Sentiment targets are rating-derived proxy labels.
+Effectiveness and severity predictions describe review labels, not verified clinical outcomes.
+Classification scores do not measure drug-ranking quality.
+Do not repeatedly tune models against these test results.

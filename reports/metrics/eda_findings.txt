@@ -1,0 +1,33 @@
+TRAINING DATA: EXPLORATORY FINDINGS
+
+Training reviews: 3,060
+Unique nonblank drug names: 500
+Unique normalized condition strings: 1,423
+Average patient rating: 7.00/10
+Median patient rating: 8.0/10
+
+Positive rating-derived labels account for 68.7% of reviews.
+These labels describe rating groups, not independently annotated sentiment.
+
+The median combined review contains 97 words.
+
+Missing or blank descriptions:
+- benefits_review: 17
+- side_effects_review: 73
+- comments_review: 11
+
+The most reviewed normalized condition string is 'depression' with 228 reviews.
+
+Ranking evidence coverage:
+Total drug-condition pairs: 2,073
+- Pairs with at least 1 reviews: 2,073
+- Pairs with at least 3 reviews: 161
+- Pairs with at least 5 reviews: 80
+- Pairs with at least 10 reviews: 23
+
+Interpretation:
+Review counts describe dataset representation, not disease prevalence or drug popularity in the population.
+Effectiveness and severity are patient-reported labels.
+Similar condition strings have not automatically been merged into a single medical condition.
+Small review groups provide limited evidence for rankings.
+All findings use training data only.
